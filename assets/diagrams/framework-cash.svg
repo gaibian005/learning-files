@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1310" viewBox="0 0 1700 1310" role="img" aria-labelledby="title" xml:lang="zh-CN">
+<title id="title">04  卖出一台电脑，赚了多少、垫了多少</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#69838a"/></marker></defs>
+<style>
+text { font-family: "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+.title { font-size: 43px; font-weight: 700; fill: #243b44; }
+.sub { font-size: 20px; fill: #47606a; }
+.head { font-size: 23px; font-weight: 700; fill: #29444b; }
+.body { font-size: 18px; fill: #324e55; }
+.small { font-size: 16px; fill: #52676e; }
+.label { font-size: 17px; font-weight: 700; fill: #315d60; }
+.white { fill: #fff; }
+.number { font-size: 29px; font-weight: 700; }
+.link { font-size: 16px; fill: #276481; text-decoration: underline; }
+</style>
+<rect x="0" y="0" width="1700" height="1310" rx="0" fill="#f6f8f6" stroke="none"/>
+<text x="52" y="75" class="title" text-anchor="start">04  卖出一台电脑，赚了多少、垫了多少</text>
+<text x="52" y="116" class="sub" text-anchor="start">全部数字为教学假设，单位为美元；并非 Framework 的售价、成本、利润或供应商账期。</text>
+<rect x="52" y="151" width="1596" height="71" rx="12" fill="#f4ead8" stroke="#e1d2b5"/>
+<text x="72" y="181" class="head" text-anchor="start">模型口径</text>
+<text x="225" y="181" class="body" text-anchor="start">税款从收款与支出中剔除。销售额 1,000；预计保修是费用估计，发生前不当作现金支出。</text>
+<text x="225" y="207" class="small" text-anchor="start">单笔贡献额 = 销售额 − 随订单增加的成本。研发和管理等固定支出在后面单独考虑。</text>
+<text x="52" y="265" class="head" text-anchor="start">一单的经营结果</text>
+<rect x="52" y="287" width="706" height="49" rx="7" fill="#fff" stroke="#d7e1df"/>
+<text x="70" y="318" class="body" text-anchor="start">销售额</text>
+<text x="735" y="320" class="head" text-anchor="end">+1,000</text>
+<rect x="52" y="344" width="706" height="49" rx="7" fill="#fff" stroke="#d7e1df"/>
+<text x="70" y="375" class="body" text-anchor="start">采购与制造</text>
+<text x="735" y="377" class="head" text-anchor="end">-650</text>
+<rect x="52" y="401" width="706" height="49" rx="7" fill="#fff" stroke="#d7e1df"/>
+<text x="70" y="432" class="body" text-anchor="start">仓配和跨境物流</text>
+<text x="735" y="434" class="head" text-anchor="end">-80</text>
+<rect x="52" y="458" width="706" height="49" rx="7" fill="#fff" stroke="#d7e1df"/>
+<text x="70" y="489" class="body" text-anchor="start">支付处理</text>
+<text x="735" y="491" class="head" text-anchor="end">-20</text>
+<rect x="52" y="515" width="706" height="49" rx="7" fill="#fff" stroke="#d7e1df"/>
+<text x="70" y="546" class="body" text-anchor="start">归属于该单的获客支出</text>
+<text x="735" y="548" class="head" text-anchor="end">-100</text>
+<rect x="52" y="572" width="706" height="49" rx="7" fill="#fff" stroke="#d7e1df"/>
+<text x="70" y="603" class="body" text-anchor="start">预计保修服务成本</text>
+<text x="735" y="605" class="head" text-anchor="end">-50</text>
+<rect x="52" y="642" width="706" height="66" rx="12" fill="#deeee6" stroke="#bad5c7"/>
+<text x="70" y="683" class="head" text-anchor="start">单笔贡献额</text>
+<text x="735" y="683" class="number" text-anchor="end" fill="#205e43">100</text>
+<text x="52" y="741" class="body" text-anchor="start">若每月固定研发与管理支出为 100,000：</text>
+<text x="52" y="774" class="body" text-anchor="start">100,000 ÷ 100 = 1,000 单，才覆盖这些固定支出。</text>
+<text x="52" y="802" class="small" text-anchor="start">假设单价、单位成本、费用和产能在这一销量内保持不变。</text>
+<text x="810" y="265" class="head" text-anchor="start">同一单的现金先后顺序</text>
+<text x="829" y="299" class="label" text-anchor="start">动作</text>
+<text x="1390" y="299" class="label" text-anchor="end">当次收付</text>
+<text x="1628" y="299" class="label" text-anchor="end">累计现金变化</text>
+<rect x="810" y="315" width="838" height="59" rx="7" fill="#fff" stroke="#d7e1df"/>
+<text x="829" y="352" class="body" text-anchor="start">① 收客户预订款</text>
+<text x="1390" y="352" class="head" text-anchor="end">+100</text>
+<text x="1628" y="352" class="head" text-anchor="end">100</text>
+<rect x="810" y="382" width="838" height="59" rx="7" fill="#f8e9df" stroke="#d7e1df"/>
+<text x="829" y="419" class="body" text-anchor="start">② 向供应链预付</text>
+<text x="1390" y="419" class="head" text-anchor="end">-300</text>
+<text x="1628" y="419" class="head" text-anchor="end">−200</text>
+<rect x="810" y="449" width="838" height="59" rx="7" fill="#fff" stroke="#d7e1df"/>
+<text x="829" y="486" class="body" text-anchor="start">③ 发货准备好，收客户尾款</text>
+<text x="1390" y="486" class="head" text-anchor="end">+900</text>
+<text x="1628" y="486" class="head" text-anchor="end">700</text>
+<rect x="810" y="516" width="838" height="59" rx="7" fill="#fff" stroke="#d7e1df"/>
+<text x="829" y="553" class="body" text-anchor="start">④ 支付采购制造剩余款</text>
+<text x="1390" y="553" class="head" text-anchor="end">-350</text>
+<text x="1628" y="553" class="head" text-anchor="end">350</text>
+<rect x="810" y="583" width="838" height="59" rx="7" fill="#fff" stroke="#d7e1df"/>
+<text x="829" y="620" class="body" text-anchor="start">⑤ 支付物流、支付费及获客款</text>
+<text x="1390" y="620" class="head" text-anchor="end">-200</text>
+<text x="1628" y="620" class="head" text-anchor="end">150</text>
+<rect x="810" y="670" width="838" height="139" rx="12" fill="#e6edf5" stroke="#c8d6e5"/>
+<text x="829" y="706" class="head" text-anchor="start">这笔订单曾经需要公司垫 200</text>
+<text x="829" y="738" class="body" text-anchor="start">完成上述收付后留有现金 150，其中还要面对预计保修支出 50。</text>
+<text x="829" y="768" class="body" text-anchor="start">如果之后实际保修支出正好是 50，累计现金才降到 100。</text>
+<text x="829" y="794" class="small" text-anchor="start">模型未计公司早期研发、税款周转和其他订单带来的现金需求。</text>
+<text x="52" y="858" class="head" text-anchor="start">三个变化，怎样影响同一单</text>
+<rect x="52" y="879" width="516" height="113" rx="12" fill="#f1eadf" stroke="#e0d5c2"/>
+<text x="70" y="911" class="head" text-anchor="start">元件涨价</text>
+<text x="70" y="941" class="body" text-anchor="start">采购制造多花 60</text>
+<text x="70" y="970" class="head" text-anchor="start">贡献额降到 40</text>
+<rect x="592" y="879" width="516" height="113" rx="12" fill="#f1eadf" stroke="#e0d5c2"/>
+<text x="610" y="911" class="head" text-anchor="start">为赶交期加急</text>
+<text x="610" y="941" class="body" text-anchor="start">物流额外增加 80</text>
+<text x="610" y="970" class="head" text-anchor="start">贡献额降到 20</text>
+<rect x="1132" y="879" width="516" height="113" rx="12" fill="#f1eadf" stroke="#e0d5c2"/>
+<text x="1150" y="911" class="head" text-anchor="start">预期故障增加</text>
+<text x="1150" y="941" class="body" text-anchor="start">预计保修成本增加 70</text>
+<text x="1150" y="970" class="head" text-anchor="start">贡献额降到 30</text>
+<text x="52" y="1026" class="body" text-anchor="start">上面每项分别与原模型比较。若三个变化同时发生：100 − 60 − 80 − 70 = −110，每单将消耗经营资源。</text>
+<rect x="52" y="1051" width="1596" height="111" rx="12" fill="#e8efec" stroke="#d0ddd6"/>
+<text x="70" y="1086" class="head" text-anchor="start">资金从哪里补进来</text>
+<text x="300" y="1086" class="body" text-anchor="start">客户付款支持订单周转；投资资金可支持研发和扩张；融资安排还取决于公司条件。</text>
+<text x="300" y="1118" class="body" text-anchor="start">投资款增加现金和相应股东权益，客户预订款带着交付或退款义务。</text>
+<text x="300" y="1147" class="body" text-anchor="start">公司长期是否赚到钱，仍要看产品贡献、固定支出、实际售后损失和持续获客表现。</text>
+<text x="52" y="1205" class="small" text-anchor="start">本页是为理解业务而建立的简化模型，全部价格、成本和时间顺序均为假设。</text>
+<text x="52" y="1235" class="small" text-anchor="start">Framework 的真实毛利、客户获取成本、供应商预付款和公司净利润，本次没有取得。</text>
+<text x="52" y="1265" class="small" text-anchor="start">与真实公司可以对应的是预订与尾款机制，以及其公开披露的制造、仓配、运输和融资活动。</text>
+</svg>

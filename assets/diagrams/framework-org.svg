@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1180" viewBox="0 0 1700 1180" role="img" aria-labelledby="title" xml:lang="zh-CN"><title id="title">05  从业务责任，设计职能组织</title>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#66817b"/></marker></defs>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#29443e}.title{font-size:44px;font-weight:700}.sub{font-size:20px;fill:#526c64}.h{font-size:24px;font-weight:700}.b{font-size:18px}.sm{font-size:16px;fill:#516b63}.label{font-size:18px;font-weight:700}.white{fill:white}</style>
+<rect x="0" y="0" width="1700" height="1180" rx="0" fill="#f5f8f5" stroke="#d2dfd8"/>
+<text x="52" y="75" class="title" text-anchor="start">05  从业务责任，设计职能组织</text>
+<text x="52" y="118" class="sub" text-anchor="start">教学方案 · 20—30 人跨境硬件创业团队 · 官网销售、委托制造、外包仓配 · 非 Framework 实际组织图</text>
+<path d="M650 535 H600 M600 300 V830 M600 300 H572 M600 565 H572 M600 830 H572" stroke="#66817b" stroke-width="2.2" fill="none"/>
+<path d="M1050 535 H1100 M1100 300 V830 M1100 300 H1128 M1100 565 H1128 M1100 830 H1128" stroke="#66817b" stroke-width="2.2" fill="none"/>
+<rect x="650" y="375" width="400" height="320" rx="13" fill="#265b49" stroke="#d2dfd8"/>
+<text x="850" y="418" class="h white" text-anchor="middle">经营负责人</text>
+<text x="850" y="465" class="b white" text-anchor="middle">确定产品方向和经营目标</text>
+<text x="850" y="496" class="b white" text-anchor="middle">平衡销量、产能与现金</text>
+<text x="850" y="527" class="b white" text-anchor="middle">决定超出职能权限的事项</text>
+<path d="M690 548 H1010" stroke="#66817b" stroke-width="2.2" fill="none"/>
+<text x="850" y="584" class="label white" text-anchor="middle">指定一名订单交付负责人</text>
+<text x="850" y="619" class="b white" text-anchor="middle">跟进订单确认到客户签收</text>
+<text x="850" y="650" class="b white" text-anchor="middle">协调各职能，升级超权限问题</text>
+<rect x="52" y="185" width="520" height="230" rx="13" fill="#e7eef7" stroke="#d2dfd8"/>
+<text x="69" y="223" class="h" text-anchor="start">产品与研发</text>
+<text x="69" y="265" class="label" text-anchor="start">结果</text>
+<text x="130" y="265" class="b" text-anchor="start">产品满足需求，设计可制造、可维护。</text>
+<text x="69" y="302" class="label" text-anchor="start">动作</text>
+<text x="130" y="302" class="b" text-anchor="start">定规格、开发、验证样机、管理版本。</text>
+<text x="69" y="339" class="label" text-anchor="start">对接</text>
+<text x="130" y="339" class="b" text-anchor="start">供应商工程、工厂、质量与用户反馈。</text>
+<text x="69" y="376" class="label" text-anchor="start">关注</text>
+<text x="130" y="376" class="b" text-anchor="start">验证通过、故障改善、开发进度与投入。</text>
+<rect x="52" y="450" width="520" height="230" rx="13" fill="#e7eef7" stroke="#d2dfd8"/>
+<text x="69" y="488" class="h" text-anchor="start">供应链与质量</text>
+<text x="69" y="530" class="label" text-anchor="start">结果</text>
+<text x="130" y="530" class="b" text-anchor="start">按成本和交期取得合格产品。</text>
+<text x="69" y="567" class="label" text-anchor="start">动作</text>
+<text x="130" y="567" class="b" text-anchor="start">询价、采购、跟料、排产与验收。</text>
+<text x="69" y="604" class="label" text-anchor="start">对接</text>
+<text x="130" y="604" class="b" text-anchor="start">工厂、物料商、检测机构、订单负责人。</text>
+<text x="69" y="641" class="label" text-anchor="start">关注</text>
+<text x="130" y="641" class="b" text-anchor="start">交付达成、缺料、质量、库存和返工。</text>
+<rect x="52" y="715" width="520" height="230" rx="13" fill="#e7eef7" stroke="#d2dfd8"/>
+<text x="69" y="753" class="h" text-anchor="start">市场与销售运营</text>
+<text x="69" y="795" class="label" text-anchor="start">结果</text>
+<text x="130" y="795" class="b" text-anchor="start">获得有效需求和可履约的订单。</text>
+<text x="69" y="832" class="label" text-anchor="start">动作</text>
+<text x="130" y="832" class="b" text-anchor="start">内容推广、官网配置、价格及需求预测。</text>
+<text x="69" y="869" class="label" text-anchor="start">对接</text>
+<text x="130" y="869" class="b" text-anchor="start">客户、渠道、研发、供应链和财务。</text>
+<text x="69" y="906" class="label" text-anchor="start">关注</text>
+<text x="130" y="906" class="b" text-anchor="start">订单转化、获客支出、取消率、配置分布。</text>
+<rect x="1128" y="185" width="520" height="230" rx="13" fill="#e8f1eb" stroke="#d2dfd8"/>
+<text x="1145" y="223" class="h" text-anchor="start">履约与客户服务</text>
+<text x="1145" y="265" class="label" text-anchor="start">结果</text>
+<text x="1206" y="265" class="b" text-anchor="start">正确配置交到客户手里，问题有处理结果。</text>
+<text x="1145" y="302" class="label" text-anchor="start">动作</text>
+<text x="1206" y="302" class="b" text-anchor="start">订单核对、出库、物流跟踪、退换补发。</text>
+<text x="1145" y="339" class="label" text-anchor="start">对接</text>
+<text x="1206" y="339" class="b" text-anchor="start">仓配、承运商、客户、供应链和财务。</text>
+<text x="1145" y="376" class="label" text-anchor="start">关注</text>
+<text x="1206" y="376" class="b" text-anchor="start">按期交付、错漏发、退货、响应与补救成本。</text>
+<rect x="1128" y="450" width="520" height="230" rx="13" fill="#e8f1eb" stroke="#d2dfd8"/>
+<text x="1145" y="488" class="h" text-anchor="start">财务与经营管理</text>
+<text x="1145" y="530" class="label" text-anchor="start">结果</text>
+<text x="1206" y="530" class="b" text-anchor="start">看清经营结果、资金需求和交易记录。</text>
+<text x="1145" y="567" class="label" text-anchor="start">动作</text>
+<text x="1206" y="567" class="b" text-anchor="start">收付退款、对账、成本、现金及预算分析。</text>
+<text x="1145" y="604" class="label" text-anchor="start">对接</text>
+<text x="1206" y="604" class="b" text-anchor="start">业务负责人、银行、会计与税务服务方。</text>
+<text x="1145" y="641" class="label" text-anchor="start">关注</text>
+<text x="1206" y="641" class="b" text-anchor="start">单笔贡献、资金缺口、应收应付、账实差异。</text>
+<rect x="1128" y="715" width="520" height="230" rx="13" fill="#e8f1eb" stroke="#d2dfd8"/>
+<text x="1145" y="753" class="h" text-anchor="start">人事、行政与法务支持</text>
+<text x="1145" y="795" class="label" text-anchor="start">结果</text>
+<text x="1206" y="795" class="b" text-anchor="start">有人可用，合同、授权和劳动事项有归属。</text>
+<text x="1145" y="832" class="label" text-anchor="start">动作</text>
+<text x="1206" y="832" class="b" text-anchor="start">招聘、用工、合同支持、文件及权限管理。</text>
+<text x="1145" y="869" class="label" text-anchor="start">对接</text>
+<text x="1206" y="869" class="b" text-anchor="start">负责人、各职能、律师和外部服务机构。</text>
+<text x="1145" y="906" class="label" text-anchor="start">关注</text>
+<text x="1206" y="906" class="b" text-anchor="start">岗位缺口、重要合同、用工与授权事项。</text>
+<rect x="52" y="985" width="1596" height="125" rx="13" fill="#f3ecdd" stroke="#d2dfd8"/>
+<text x="72" y="1020" class="h" text-anchor="start">怎样从职能变成部门</text>
+<text x="365" y="1020" class="b" text-anchor="start">初期先指定责任人，一人可兼多项。工作量、专业要求或责任冲突增加后，再拆成独立岗位和部门。</text>
+<text x="365" y="1055" class="b" text-anchor="start">质量放行、付款复核等关键节点，应安排相应的复核与升级机制，避免同一人把所有环节一并决定。</text>
+<text x="365" y="1087" class="sm" text-anchor="start">每条产品或订单线都有贯穿交付的负责人；各职能仍对自己的专业结果负责。</text>
+<text x="52" y="1145" class="sm" text-anchor="start">组织随业务规模调整。外部工厂和仓库执行工作，内部供应链、质量和履约人员负责要求、验收与协调。</text>
+</svg>

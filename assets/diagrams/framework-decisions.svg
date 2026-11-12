@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1700" viewBox="0 0 1700 1700" role="img" aria-labelledby="title" xml:lang="zh-CN"><title id="title">07  一笔订单怎样跨部门推进、由谁决定</title>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#66817b"/></marker></defs>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#29443e}.title{font-size:44px;font-weight:700}.sub{font-size:20px;fill:#526c64}.h{font-size:24px;font-weight:700}.b{font-size:18px}.sm{font-size:16px;fill:#516b63}.label{font-size:18px;font-weight:700}.white{fill:white}</style>
+<rect x="0" y="0" width="1700" height="1700" rx="0" fill="#f5f8f5" stroke="#d2dfd8"/>
+<text x="52" y="75" class="title" text-anchor="start">07  一笔订单怎样跨部门推进、由谁决定</text>
+<text x="52" y="118" class="sub" text-anchor="start">教学方案 · 每个关键节点有牵头人、专业确认、决策授权和可回查记录</text>
+<text x="52" y="166" class="h" text-anchor="start">先用共同编号串起业务</text>
+<rect x="52" y="187" width="246" height="65" rx="13" fill="#e4eeea" stroke="#d2dfd8"/>
+<text x="175" y="226" class="label" text-anchor="middle">客户订单与配置</text>
+<path d="M298 219 H317" stroke="#66817b" stroke-width="2.2" fill="none" marker-end="url(#a)"/>
+<rect x="322" y="187" width="246" height="65" rx="13" fill="#e4eeea" stroke="#d2dfd8"/>
+<text x="445" y="226" class="label" text-anchor="middle">采购单与生产批次</text>
+<path d="M568 219 H587" stroke="#66817b" stroke-width="2.2" fill="none" marker-end="url(#a)"/>
+<rect x="592" y="187" width="246" height="65" rx="13" fill="#e4eeea" stroke="#d2dfd8"/>
+<text x="715" y="226" class="label" text-anchor="middle">验收与序列号</text>
+<path d="M838 219 H857" stroke="#66817b" stroke-width="2.2" fill="none" marker-end="url(#a)"/>
+<rect x="862" y="187" width="246" height="65" rx="13" fill="#e4eeea" stroke="#d2dfd8"/>
+<text x="985" y="226" class="label" text-anchor="middle">收付与余额</text>
+<path d="M1108 219 H1127" stroke="#66817b" stroke-width="2.2" fill="none" marker-end="url(#a)"/>
+<rect x="1132" y="187" width="246" height="65" rx="13" fill="#e4eeea" stroke="#d2dfd8"/>
+<text x="1255" y="226" class="label" text-anchor="middle">发运与申报</text>
+<path d="M1378 219 H1397" stroke="#66817b" stroke-width="2.2" fill="none" marker-end="url(#a)"/>
+<rect x="1402" y="187" width="246" height="65" rx="13" fill="#e4eeea" stroke="#d2dfd8"/>
+<text x="1525" y="226" class="label" text-anchor="middle">签收与售后</text>
+<text x="52" y="287" class="sm" text-anchor="start">一张销售订单可对应多张采购单和多次发运，需要保存关联，避免只用金额或名称猜测。</text>
+<text x="52" y="340" class="h" text-anchor="start">决策责任如何安排</text>
+<rect x="52" y="360" width="1596" height="48" rx="13" fill="#dfece6" stroke="#d2dfd8"/>
+<text x="68" y="391" class="label" text-anchor="start">事项</text>
+<text x="320" y="391" class="label" text-anchor="start">牵头</text>
+<text x="560" y="391" class="label" text-anchor="start">专业确认</text>
+<text x="980" y="391" class="label" text-anchor="start">决定／升级</text>
+<text x="1340" y="391" class="label" text-anchor="start">留下的结果</text>
+<rect x="52" y="419" width="1596" height="58" rx="8" fill="#fff" stroke="#d2dfd8"/>
+<text x="68" y="454" class="sm" text-anchor="start">新产品或重大改版</text>
+<text x="320" y="454" class="sm" text-anchor="start">产品负责人</text>
+<text x="560" y="454" class="sm" text-anchor="start">研发可行、供应链可做、财务测算</text>
+<text x="980" y="454" class="sm" text-anchor="start">经营负责人批准投入</text>
+<text x="1340" y="454" class="sm" text-anchor="start">规格、预算和里程碑</text>
+<rect x="52" y="486" width="1596" height="58" rx="8" fill="#edf2ef" stroke="#d2dfd8"/>
+<text x="68" y="521" class="sm" text-anchor="start">对外承诺交期</text>
+<text x="320" y="521" class="sm" text-anchor="start">订单交付负责人</text>
+<text x="560" y="521" class="sm" text-anchor="start">供应链产能与物流条件</text>
+<text x="980" y="521" class="sm" text-anchor="start">授权内确认；额外投入升级</text>
+<text x="1340" y="521" class="sm" text-anchor="start">客户承诺与排期</text>
+<rect x="52" y="553" width="1596" height="58" rx="8" fill="#fff" stroke="#d2dfd8"/>
+<text x="68" y="588" class="sm" text-anchor="start">采购与预付款</text>
+<text x="320" y="588" class="sm" text-anchor="start">供应链负责人</text>
+<text x="560" y="588" class="sm" text-anchor="start">财务现金、质量与供应能力</text>
+<text x="980" y="588" class="sm" text-anchor="start">按额度审批；越限升级</text>
+<text x="1340" y="588" class="sm" text-anchor="start">订单及付款安排</text>
+<rect x="52" y="620" width="1596" height="58" rx="8" fill="#edf2ef" stroke="#d2dfd8"/>
+<text x="68" y="655" class="sm" text-anchor="start">批次质量放行</text>
+<text x="320" y="655" class="sm" text-anchor="start">质量负责人</text>
+<text x="560" y="655" class="sm" text-anchor="start">工程与约定验收标准</text>
+<text x="980" y="655" class="sm" text-anchor="start">质量授权人；重大异常升级</text>
+<text x="1340" y="655" class="sm" text-anchor="start">放行／返工记录</text>
+<rect x="52" y="687" width="1596" height="58" rx="8" fill="#fff" stroke="#d2dfd8"/>
+<text x="68" y="722" class="sm" text-anchor="start">客户退款或补偿</text>
+<text x="320" y="722" class="sm" text-anchor="start">客服负责人</text>
+<text x="560" y="722" class="sm" text-anchor="start">订单事实、财务支付记录</text>
+<text x="980" y="722" class="sm" text-anchor="start">额度内办理；越限升级</text>
+<text x="1340" y="722" class="sm" text-anchor="start">退款／补发记录</text>
+<rect x="52" y="754" width="1596" height="58" rx="8" fill="#edf2ef" stroke="#d2dfd8"/>
+<text x="68" y="789" class="sm" text-anchor="start">进入新的国家</text>
+<text x="320" y="789" class="sm" text-anchor="start">经营负责人</text>
+<text x="560" y="789" class="sm" text-anchor="start">销售、物流、财务和专业顾问</text>
+<text x="980" y="789" class="sm" text-anchor="start">按治理及投资权限批准</text>
+<text x="1340" y="789" class="sm" text-anchor="start">市场进入与主体方案</text>
+<text x="52" y="854" class="h" text-anchor="start">用一次缺料事件检验架构</text>
+<rect x="52" y="878" width="1596" height="61" rx="9" fill="#fff" stroke="#d2dfd8"/>
+<text x="74" y="916" class="label" text-anchor="start">01  供应链</text>
+<text x="390" y="916" class="b" text-anchor="start">确认缺多少、什么时间能补齐，形成受影响批次清单。</text>
+<path d="M180 939 V951" stroke="#66817b" stroke-width="2.2" fill="none" marker-end="url(#a)"/>
+<rect x="52" y="952" width="1596" height="61" rx="9" fill="#fff" stroke="#d2dfd8"/>
+<text x="74" y="990" class="label" text-anchor="start">02  订单交付负责人</text>
+<text x="390" y="990" class="b" text-anchor="start">把生产批次对应到客户订单，组织各职能提出备选方案。</text>
+<path d="M180 1013 V1025" stroke="#66817b" stroke-width="2.2" fill="none" marker-end="url(#a)"/>
+<rect x="52" y="1026" width="1596" height="61" rx="9" fill="#fff" stroke="#d2dfd8"/>
+<text x="74" y="1064" class="label" text-anchor="start">03  产品与质量</text>
+<text x="390" y="1064" class="b" text-anchor="start">验证替代料或改配置的可行性，明确验证时间与影响。</text>
+<path d="M180 1087 V1099" stroke="#66817b" stroke-width="2.2" fill="none" marker-end="url(#a)"/>
+<rect x="52" y="1100" width="1596" height="61" rx="9" fill="#fff" stroke="#d2dfd8"/>
+<text x="74" y="1138" class="label" text-anchor="start">04  财务</text>
+<text x="390" y="1138" class="b" text-anchor="start">计算加急采购、改运输、退款及库存对利润和现金的影响。</text>
+<path d="M180 1161 V1173" stroke="#66817b" stroke-width="2.2" fill="none" marker-end="url(#a)"/>
+<rect x="52" y="1174" width="1596" height="61" rx="9" fill="#fff" stroke="#d2dfd8"/>
+<text x="74" y="1212" class="label" text-anchor="start">05  获授权的负责人</text>
+<text x="390" y="1212" class="b" text-anchor="start">在质量、交期、成本和客户影响之间选择方案；越限按规则升级。</text>
+<path d="M180 1235 V1247" stroke="#66817b" stroke-width="2.2" fill="none" marker-end="url(#a)"/>
+<rect x="52" y="1248" width="1596" height="61" rx="9" fill="#fff" stroke="#d2dfd8"/>
+<text x="74" y="1286" class="label" text-anchor="start">06  客服与履约</text>
+<text x="390" y="1286" class="b" text-anchor="start">告知客户，落实退款、改期或发运，并把结果回写到订单。</text>
+<rect x="52" y="1343" width="1596" height="166" rx="13" fill="#f4ecdc" stroke="#d2dfd8"/>
+<text x="74" y="1381" class="h" text-anchor="start">维持组织运转的三个节奏</text>
+<text x="74" y="1420" class="label" text-anchor="start">日常异常处理</text>
+<text x="330" y="1420" class="b" text-anchor="start">只跟缺料、质量、收款、清关和客户投诉等影响当前交付的问题。</text>
+<text x="74" y="1455" class="label" text-anchor="start">每周经营与交付核对</text>
+<text x="330" y="1455" class="b" text-anchor="start">对齐订单、产能、库存、发运和现金，更新承诺与责任人。</text>
+<text x="74" y="1490" class="label" text-anchor="start">每月经营复盘</text>
+<text x="330" y="1490" class="b" text-anchor="start">核对贡献、库存、售后和现金结果，决定下阶段投入与组织调整。</text>
+<text x="52" y="1555" class="sm" text-anchor="start">授权金额、重大事项标准和会议频率，应按公司业务及现金条件制定。本图没有假设统一适用的审批额度。</text>
+<text x="52" y="1589" class="sm" text-anchor="start">一个职能对自己的专业结果负责；订单交付负责人负责推动整条交付链。多人协作时，仍需明确谁作最终决定。</text>
+<text x="52" y="1623" class="sm" text-anchor="start">先确定流程和责任，再选择系统。系统至少能关联订单、产品版本、主体、数量、金额、付款与发货状态。</text>
+</svg>

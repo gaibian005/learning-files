@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1370" viewBox="0 0 1600 1370" role="img" aria-labelledby="title" xml:lang="zh-CN">
+<title id="title">02  一笔电脑预订，怎样完成跨境交付</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#69838a"/></marker></defs>
+<style>
+text { font-family: "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+.title { font-size: 43px; font-weight: 700; fill: #243b44; }
+.sub { font-size: 20px; fill: #47606a; }
+.head { font-size: 23px; font-weight: 700; fill: #29444b; }
+.body { font-size: 18px; fill: #324e55; }
+.small { font-size: 16px; fill: #52676e; }
+.label { font-size: 17px; font-weight: 700; fill: #315d60; }
+.white { fill: #fff; }
+.number { font-size: 29px; font-weight: 700; }
+.link { font-size: 16px; fill: #276481; text-decoration: underline; }
+</style>
+<rect x="0" y="0" width="1600" height="1370" rx="0" fill="#f6f8f6" stroke="none"/>
+<text x="52" y="75" class="title" text-anchor="start">02  一笔电脑预订，怎样完成跨境交付</text>
+<text x="52" y="116" class="sub" text-anchor="start">教学订单 · 加拿大客户预订一台 Framework Laptop 13 · 从配置确认到签收</text>
+<path d="M165 272 V295" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="52" y="163" width="230" height="112" rx="12" fill="#e4eeed" stroke="#cbdcdb"/>
+<text x="70" y="199" class="number" text-anchor="start" fill="#326368">01</text>
+<text x="70" y="241" class="label" text-anchor="start">客户与品牌</text>
+<rect x="306" y="163" width="1242" height="112" rx="12" fill="#fff" stroke="#d4dfdf"/>
+<path d="M282 219 H302" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="325" y="194" class="head" text-anchor="start">确定需求与配置</text>
+<text x="325" y="226" class="body" text-anchor="start">客户选择机型、键盘、接口模块和配件，填写加拿大收货地址。</text>
+<text x="325" y="254" class="small" text-anchor="start">交接材料为订单配置、地址和预计发货批次。品牌要让客户理解产品和等待时间。</text>
+<path d="M165 404 V427" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="52" y="295" width="230" height="112" rx="12" fill="#e4eeed" stroke="#cbdcdb"/>
+<text x="70" y="331" class="number" text-anchor="start" fill="#326368">02</text>
+<text x="70" y="373" class="label" text-anchor="start">Framework</text>
+<rect x="306" y="295" width="1242" height="112" rx="12" fill="#fff" stroke="#d4dfdf"/>
+<path d="M282 351 H302" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="325" y="326" class="head" text-anchor="start">确认订单并收预订款</text>
+<text x="325" y="358" class="body" text-anchor="start">按适用条款收取预订款，客户收到订单信息。公司在准备发货时再收尾款。</text>
+<text x="325" y="386" class="small" text-anchor="start">已有订单帮助观察需求，但取消预订、配置变更和预计时间仍需要管理。</text>
+<path d="M165 536 V559" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="52" y="427" width="230" height="112" rx="12" fill="#e4eeed" stroke="#cbdcdb"/>
+<text x="70" y="463" class="number" text-anchor="start" fill="#326368">03</text>
+<text x="70" y="505" class="label" text-anchor="start">供应链与制造方</text>
+<rect x="306" y="427" width="1242" height="112" rx="12" fill="#fff" stroke="#d4dfdf"/>
+<path d="M282 483 H302" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="325" y="458" class="head" text-anchor="start">把销售需求转成生产安排</text>
+<text x="325" y="490" class="body" text-anchor="start">经营团队结合订单与预测，和制造伙伴确认料件、批次及可交付数量。</text>
+<text x="325" y="518" class="small" text-anchor="start">这里用典型计划过程演示；物料预付款、供应商账期和批次采购单尚未公开。</text>
+<path d="M165 668 V691" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="52" y="559" width="230" height="112" rx="12" fill="#e4eeed" stroke="#cbdcdb"/>
+<text x="70" y="595" class="number" text-anchor="start" fill="#326368">04</text>
+<text x="70" y="637" class="label" text-anchor="start">Compal</text>
+<rect x="306" y="559" width="1242" height="112" rx="12" fill="#fff" stroke="#d4dfdf"/>
+<path d="M282 615 H302" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="325" y="590" class="head" text-anchor="start">制造、测试并交付成品</text>
+<text x="325" y="622" class="body" text-anchor="start">官方披露桃园制造伙伴参与装配、测试与包装。待交数量要对应具体配置。</text>
+<text x="325" y="650" class="small" text-anchor="start">量产前还需验证产线和工序。缺件或测试异常会影响可交货的数量和时间。</text>
+<path d="M165 800 V823" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="52" y="691" width="230" height="112" rx="12" fill="#e4eeed" stroke="#cbdcdb"/>
+<text x="70" y="727" class="number" text-anchor="start" fill="#326368">05</text>
+<text x="70" y="769" class="label" text-anchor="start">Dimerco</text>
+<rect x="306" y="691" width="1242" height="112" rx="12" fill="#fff" stroke="#d4dfdf"/>
+<path d="M282 747 H302" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="325" y="722" class="head" text-anchor="start">入库并建立可拣配库存</text>
+<text x="325" y="754" class="body" text-anchor="start">仓库扫描入库、追踪序列号，再按订单配置组织拣货与包装。</text>
+<text x="325" y="782" class="small" text-anchor="start">一台电脑加多种配件，需要核对每个包裹装了什么，减少漏发和错发。</text>
+<path d="M165 932 V955" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="52" y="823" width="230" height="112" rx="12" fill="#e4eeed" stroke="#cbdcdb"/>
+<text x="70" y="859" class="number" text-anchor="start" fill="#326368">06</text>
+<text x="70" y="901" class="label" text-anchor="start">Framework 与客户</text>
+<rect x="306" y="823" width="1242" height="112" rx="12" fill="#fff" stroke="#d4dfdf"/>
+<path d="M282 879 H302" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="325" y="854" class="head" text-anchor="start">准备出货并收取尾款</text>
+<text x="325" y="886" class="body" text-anchor="start">产品准备发货时向客户收取剩余价款。付款失败时，通知客户更新付款方式。</text>
+<text x="325" y="914" class="small" text-anchor="start">本例按尾款完成后安排出运讲解；支付系统、仓库放货接口属于教学示意。</text>
+<path d="M165 1064 V1087" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="52" y="955" width="230" height="112" rx="12" fill="#e4eeed" stroke="#cbdcdb"/>
+<text x="70" y="991" class="number" text-anchor="start" fill="#326368">07</text>
+<text x="70" y="1033" class="label" text-anchor="start">物流与进口服务</text>
+<rect x="306" y="955" width="1242" height="112" rx="12" fill="#fff" stroke="#d4dfdf"/>
+<path d="M282 1011 H302" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="325" y="986" class="head" text-anchor="start">台湾出运，加拿大进口</text>
+<text x="325" y="1018" class="body" text-anchor="start">历史方案使用 FedEx IPD，把同一目的地的包裹集中运输、清关后再分派。</text>
+<text x="325" y="1046" class="small" text-anchor="start">加拿大现行条款列 DDP，品牌通过指定承运商安排清关和相关税费，客户提供必要资料。</text>
+<rect x="52" y="1087" width="230" height="112" rx="12" fill="#e4eeed" stroke="#cbdcdb"/>
+<text x="70" y="1123" class="number" text-anchor="start" fill="#326368">08</text>
+<text x="70" y="1165" class="label" text-anchor="start">客户、配送与售后</text>
+<rect x="306" y="1087" width="1242" height="112" rx="12" fill="#fff" stroke="#d4dfdf"/>
+<path d="M282 1143 H302" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="325" y="1118" class="head" text-anchor="start">签收、核对并开始使用</text>
+<text x="325" y="1150" class="body" text-anchor="start">买家收到包裹，核对机型和配件。少件、损坏或功能问题进入品牌售后处理。</text>
+<text x="325" y="1178" class="small" text-anchor="start">品牌结合订单、序列号和发运信息定位问题，协调仓库、制造或配送环节。</text>
+<text x="52" y="1249" class="small" text-anchor="start">时间边界：生产与 FedEx 集运来自 2022 年官方案例；仓配来自 Dimerco 客户案例；收款及加拿大 DDP 以 2026 年条款为依据。</text>
+<text x="52" y="1278" class="small" text-anchor="start">这张图说明可以核实的业务机制，订单本身为演示。具体批次、承运服务和到货日期需以实际订单确认。</text>
+<a href="https://frame.work/blog/manufacturing-starts-on-the-new-framework-laptop-in-taiwan" target="_blank">
+<text x="52" y="1326" class="link" text-anchor="start">制造与量产验证</text>
+</a>
+<a href="https://lp.dimerco.com/hubfs/Case%20Studies/Framework%20Case%20Study.pdf" target="_blank">
+<text x="430" y="1326" class="link" text-anchor="start">Dimerco 入出库与序列号</text>
+</a>
+<a href="https://frame.work/blog/now-in-stock-and-how-a-framework-laptop-gets-from-the-factory-to-you/" target="_blank">
+<text x="870" y="1326" class="link" text-anchor="start">历史跨境运输方案</text>
+</a>
+<a href="https://frame.work/terms-of-sale" target="_blank">
+<text x="1260" y="1326" class="link" text-anchor="start">现行销售条款</text>
+</a>
+</svg>

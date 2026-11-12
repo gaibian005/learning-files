@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1130" viewBox="0 0 1600 1130" role="img" aria-labelledby="title desc" xml:lang="zh-CN">
+<title id="title">一块 COROS PACE 4 怎样到跑者手上</title>
+<desc id="desc">由做出手表、进入澳洲市场、交付官网订单三条分支，讲解每一步的动作、角色及交接。底部标示公开资料核实的主体与尚待查证的环节。</desc>
+<style>
+text { font-family: "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", sans-serif; }
+.title { font-size: 45px; font-weight: 700; fill: #132d36; }
+.sub { font-size: 19px; fill: #455b64; }
+.root { font-size: 24px; font-weight: 700; fill: #fff; }
+.branch { font-size: 23px; font-weight: 700; fill: #fff; }
+.name { font-size: 21px; font-weight: 700; fill: #172f39; }
+.number { font-size: 16px; font-weight: 700; }
+.body { font-size: 17px; fill: #344b55; }
+.key { font-size: 17px; font-weight: 700; }
+.foot-title { font-size: 19px; font-weight: 700; fill: #163643; }
+.foot { font-size: 16px; fill: #415964; }
+.source { font-size: 15px; fill: #21587d; text-decoration: underline; }
+</style>
+<rect x="0" y="0" width="1600" height="1130" rx="0" fill="#f4f7f7" stroke="none"/>
+<text x="52" y="73" class="title" text-anchor="start">一块 COROS PACE 4 怎样到跑者手上</text>
+<text x="52" y="108" class="sub" text-anchor="start">澳大利亚官网订单 · 按三个阶段读，每一步看动作、角色和交接</text>
+<rect x="584" y="135" width="432" height="56" rx="13" fill="#193746" stroke="none"/>
+<text x="800" y="171" class="root" text-anchor="middle">从元器件到消费者签收</text>
+<path d="M800 191 V207 M295 225 V207 H1305 V225 M800 207 V225" stroke="#91a5ad" stroke-width="2.2" fill="none"/>
+<rect x="52" y="225" width="486" height="53" rx="13" fill="#245166" stroke="none"/>
+<text x="69" y="259" class="branch" text-anchor="start">做出手表</text>
+<path d="M61 278 V670" stroke="#245166" stroke-width="1.5" fill="none"/>
+<path d="M61 328 H74" stroke="#245166" stroke-width="1.5" fill="none"/>
+<rect x="74" y="299" width="464" height="151" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<rect x="88" y="313" width="36" height="27" rx="7" fill="#e6f0f5" stroke="none"/>
+<text x="106" y="332" class="number" text-anchor="middle" fill="#245166">01</text>
+<text x="135" y="334" class="name" text-anchor="start">设计与物料清单</text>
+<text x="88" y="364" class="key" text-anchor="start" fill="#245166">动作</text>
+<text x="137" y="364" class="body" text-anchor="start">定下显示、定位、心率和续航要求。</text>
+<text x="88" y="393" class="key" text-anchor="start" fill="#245166">角色</text>
+<text x="137" y="393" class="body" text-anchor="start">工程团队把要求转成部件规格，便于采购与生产。</text>
+<text x="88" y="422" class="key" text-anchor="start" fill="#245166">交接</text>
+<text x="137" y="422" class="body" text-anchor="start">交出物料清单（BOM）、图纸和测试要求。</text>
+<path d="M61 495 H74" stroke="#245166" stroke-width="1.5" fill="none"/>
+<rect x="74" y="466" width="464" height="151" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<rect x="88" y="480" width="36" height="27" rx="7" fill="#e6f0f5" stroke="none"/>
+<text x="106" y="499" class="number" text-anchor="middle" fill="#245166">02</text>
+<text x="135" y="501" class="name" text-anchor="start">采购与齐料</text>
+<text x="88" y="531" class="key" text-anchor="start" fill="#245166">动作</text>
+<text x="137" y="531" class="body" text-anchor="start">屏幕、电池、表壳和其他部件分别下单、到货。</text>
+<text x="88" y="560" class="key" text-anchor="start" fill="#245166">角色</text>
+<text x="137" y="560" class="body" text-anchor="start">供应商按规格供料，采购盯价格、数量和交期。</text>
+<text x="88" y="589" class="key" text-anchor="start" fill="#245166">交接</text>
+<text x="137" y="589" class="body" text-anchor="start">合格料件到齐后，生产才能按计划开工。</text>
+<path d="M61 662 H74" stroke="#245166" stroke-width="1.5" fill="none"/>
+<rect x="74" y="633" width="464" height="151" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<rect x="88" y="647" width="36" height="27" rx="7" fill="#e6f0f5" stroke="none"/>
+<text x="106" y="666" class="number" text-anchor="middle" fill="#245166">03</text>
+<text x="135" y="668" class="name" text-anchor="start">装配、测试与装箱</text>
+<text x="88" y="698" class="key" text-anchor="start" fill="#245166">动作</text>
+<text x="137" y="698" class="body" text-anchor="start">做电路板组件，再装屏幕、电池和外壳，写入固件。</text>
+<text x="88" y="727" class="key" text-anchor="start" fill="#245166">角色</text>
+<text x="137" y="727" class="body" text-anchor="start">生产与质检团队检查整表，处理装配和功能问题。</text>
+<text x="88" y="756" class="key" text-anchor="start" fill="#245166">交接</text>
+<text x="137" y="756" class="body" text-anchor="start">合格批次装箱，成为可出运的成品。</text>
+<rect x="557" y="225" width="486" height="53" rx="13" fill="#255b50" stroke="none"/>
+<text x="574" y="259" class="branch" text-anchor="start">进入澳洲市场</text>
+<path d="M566 278 V670" stroke="#255b50" stroke-width="1.5" fill="none"/>
+<path d="M566 328 H579" stroke="#255b50" stroke-width="1.5" fill="none"/>
+<rect x="579" y="299" width="464" height="151" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<rect x="593" y="313" width="36" height="27" rx="7" fill="#e5f1ed" stroke="none"/>
+<text x="611" y="332" class="number" text-anchor="middle" fill="#255b50">04</text>
+<text x="640" y="334" class="name" text-anchor="start">型号测试与市场合规</text>
+<text x="593" y="364" class="key" text-anchor="start" fill="#255b50">动作</text>
+<text x="642" y="364" class="body" text-anchor="start">用样机做适用的无线等测试，保留合规资料。</text>
+<text x="593" y="393" class="key" text-anchor="start" fill="#255b50">角色</text>
+<text x="642" y="393" class="body" text-anchor="start">实验室提供设备、测量和报告，供责任主体核对。</text>
+<text x="593" y="422" class="key" text-anchor="start" fill="#255b50">交接</text>
+<text x="642" y="422" class="body" text-anchor="start">测试报告进入合规资料，可与量产准备并行。</text>
+<path d="M566 495 H579" stroke="#255b50" stroke-width="1.5" fill="none"/>
+<rect x="579" y="466" width="464" height="151" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<rect x="593" y="480" width="36" height="27" rx="7" fill="#e5f1ed" stroke="none"/>
+<text x="611" y="499" class="number" text-anchor="middle" fill="#255b50">05</text>
+<text x="640" y="501" class="name" text-anchor="start">批量运输与进口</text>
+<text x="593" y="531" class="key" text-anchor="start" fill="#255b50">动作</text>
+<text x="642" y="531" class="body" text-anchor="start">成品按批装运。内置锂电池空运须核对要求。</text>
+<text x="593" y="560" class="key" text-anchor="start" fill="#255b50">角色</text>
+<text x="642" y="560" class="body" text-anchor="start">货代协调各段运输，进口方负责进口相关事项。</text>
+<text x="593" y="589" class="key" text-anchor="start" fill="#255b50">交接</text>
+<text x="642" y="589" class="body" text-anchor="start">进口放行后，成品可送到收货仓库。</text>
+<path d="M566 662 H579" stroke="#255b50" stroke-width="1.5" fill="none"/>
+<rect x="579" y="633" width="464" height="151" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<rect x="593" y="647" width="36" height="27" rx="7" fill="#e5f1ed" stroke="none"/>
+<text x="611" y="666" class="number" text-anchor="middle" fill="#255b50">06</text>
+<text x="640" y="668" class="name" text-anchor="start">渠道备货与入库</text>
+<text x="593" y="698" class="key" text-anchor="start" fill="#255b50">动作</text>
+<text x="642" y="698" class="body" text-anchor="start">按款式和表带版本分配成品，收货并更新库存。</text>
+<text x="593" y="727" class="key" text-anchor="start" fill="#255b50">角色</text>
+<text x="642" y="727" class="body" text-anchor="start">计划团队判断备多少，仓库收货、保管并记录。</text>
+<text x="593" y="756" class="key" text-anchor="start" fill="#255b50">交接</text>
+<text x="642" y="756" class="body" text-anchor="start">入库确认后，可用库存能分配给零售订单。</text>
+<rect x="1062" y="225" width="486" height="53" rx="13" fill="#55476e" stroke="none"/>
+<text x="1079" y="259" class="branch" text-anchor="start">交付官网订单</text>
+<path d="M1071 278 V670" stroke="#55476e" stroke-width="1.5" fill="none"/>
+<path d="M1071 328 H1084" stroke="#55476e" stroke-width="1.5" fill="none"/>
+<rect x="1084" y="299" width="464" height="151" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<rect x="1098" y="313" width="36" height="27" rx="7" fill="#eee9f6" stroke="none"/>
+<text x="1116" y="332" class="number" text-anchor="middle" fill="#55476e">07</text>
+<text x="1145" y="334" class="name" text-anchor="start">消费者下单与付款</text>
+<text x="1098" y="364" class="key" text-anchor="start" fill="#55476e">动作</text>
+<text x="1147" y="364" class="body" text-anchor="start">跑者在 COROS 澳大利亚官网选款、下单。</text>
+<text x="1098" y="393" class="key" text-anchor="start" fill="#55476e">角色</text>
+<text x="1147" y="393" class="body" text-anchor="start">官网承接销售，支付环节处理货款。</text>
+<text x="1098" y="422" class="key" text-anchor="start" fill="#55476e">交接</text>
+<text x="1147" y="422" class="body" text-anchor="start">确认订单和收货地址后，发货端可以拣货。</text>
+<path d="M1071 495 H1084" stroke="#55476e" stroke-width="1.5" fill="none"/>
+<rect x="1084" y="466" width="464" height="151" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<rect x="1098" y="480" width="36" height="27" rx="7" fill="#eee9f6" stroke="none"/>
+<text x="1116" y="499" class="number" text-anchor="middle" fill="#55476e">08</text>
+<text x="1145" y="501" class="name" text-anchor="start">拣货、包装与配送</text>
+<text x="1098" y="531" class="key" text-anchor="start" fill="#55476e">动作</text>
+<text x="1147" y="531" class="body" text-anchor="start">发货端选出对应款式，打包并交给快递。</text>
+<text x="1098" y="560" class="key" text-anchor="start" fill="#55476e">角色</text>
+<text x="1147" y="560" class="body" text-anchor="start">配送商提供运输、跟踪和末端送达。</text>
+<text x="1098" y="589" class="key" text-anchor="start" fill="#55476e">交接</text>
+<text x="1147" y="589" class="body" text-anchor="start">包裹交给配送商，消费者获得跟踪信息。</text>
+<path d="M1071 662 H1084" stroke="#55476e" stroke-width="1.5" fill="none"/>
+<rect x="1084" y="633" width="464" height="151" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<rect x="1098" y="647" width="36" height="27" rx="7" fill="#eee9f6" stroke="none"/>
+<text x="1116" y="666" class="number" text-anchor="middle" fill="#55476e">09</text>
+<text x="1145" y="668" class="name" text-anchor="start">签收、开机与配对</text>
+<text x="1098" y="698" class="key" text-anchor="start" fill="#55476e">动作</text>
+<text x="1147" y="698" class="body" text-anchor="start">跑者收到表，开机后与 COROS App 配对。</text>
+<text x="1098" y="727" class="key" text-anchor="start" fill="#55476e">角色</text>
+<text x="1147" y="727" class="body" text-anchor="start">App 提供同步与训练功能，客服处理使用问题。</text>
+<text x="1098" y="756" class="key" text-anchor="start" fill="#55476e">交接</text>
+<text x="1147" y="756" class="body" text-anchor="start">实物交付完成，消费者开始使用产品。</text>
+<rect x="52" y="802" width="1496" height="70" rx="13" fill="#e8f0f1" stroke="#d8e2e4"/>
+<text x="70" y="830" class="foot-title" text-anchor="start">渠道备货怎样影响采购</text>
+<text x="70" y="855" class="body" text-anchor="start">官网卖出一块表之前，备货通常已开始。渠道预估各款式的销量，影响整表排产，再影响屏幕和电池采购量。</text>
+<text x="52" y="913" class="foot-title" text-anchor="start">公开资料能确认的角色</text>
+<rect x="52" y="927" width="486" height="100" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<text x="68" y="955" class="name" text-anchor="start">广东高驰</text>
+<text x="68" y="983" class="foot" text-anchor="start">公开测试报告将其列为 W335 制造商。</text>
+<a href="https://device.report/m/8d60dc8603d2e94f1fa58381f80a2fd848d75c0a5bc42ddca453b7a3dba7e33d.pdf" target="_blank">
+<text x="68" y="1009" class="source" text-anchor="start">PACE 4 无线测试报告</text>
+</a>
+<rect x="557" y="927" width="486" height="100" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<text x="573" y="955" class="name" text-anchor="start">Shenzhen CTB Testing Technology</text>
+<text x="573" y="983" class="foot" text-anchor="start">为 W335 样机出具蓝牙无线测试报告。</text>
+<a href="https://device.report/m/8d60dc8603d2e94f1fa58381f80a2fd848d75c0a5bc42ddca453b7a3dba7e33d.pdf" target="_blank">
+<text x="573" y="1009" class="source" text-anchor="start">同一份报告的封面和测试范围</text>
+</a>
+<rect x="1062" y="927" width="486" height="100" rx="13" fill="#fff" stroke="#d6e0e3"/>
+<text x="1078" y="955" class="name" text-anchor="start">Australia Post</text>
+<text x="1078" y="983" class="foot" text-anchor="start">承接多数 COROS 澳洲官网订单配送。</text>
+<a href="https://support.coros.com/hc/en-us/articles/21202434036244-Order-from-coros-com-au" target="_blank">
+<text x="1078" y="1009" class="source" text-anchor="start">COROS 澳大利亚官网订单政策</text>
+</a>
+<text x="52" y="1060" class="foot" text-anchor="start">待查：具体屏幕及电池供应商、工序由谁执行、该批货的跨境路线、澳洲进口主体和仓库运营方。</text>
+<text x="52" y="1090" class="foot" text-anchor="start">示意图采用典型的库存履约流程。型号测试、渠道备货和生产计划在实际经营中可交叉进行。</text>
+</svg>

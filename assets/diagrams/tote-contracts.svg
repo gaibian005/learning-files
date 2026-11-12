@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1300" viewBox="0 0 1700 1300" role="img" aria-labelledby="title desc" xml:lang="zh-CN">
+<title id="title">帆布袋出口订单角色关系详图</title>
+<desc id="desc">四列分别对应中国工厂、中国贸易商、澳大利亚礼品经销商和终端活动方。分支展示各方直接对接的服务商及部分下游服务商，并说明谁委托、谁付款、交付什么及异常由谁跟进。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#516b61"/></marker></defs>
+<style>
+text { font-family: "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", sans-serif; }
+.title { font-size: 47px; font-weight: 700; fill: #182f27; }
+.sub { font-size: 20px; fill: #40574e; }
+.meta { font-size: 16px; fill: #4d645a; }
+.head { font-size: 28px; font-weight: 700; fill: #fff; }
+.head-copy { font-size: 17px; fill: #fff; }
+.name { font-size: 21px; font-weight: 700; fill: #20362d; }
+.row { font-size: 16px; fill: #334c42; }
+.tag { font-weight: 700; }
+.note { font-size: 17px; fill: #334c42; }
+</style>
+<rect x="0" y="0" width="1700" height="1300" rx="0" fill="#f6f8f4" stroke="none"/>
+<text x="52" y="78" class="title">一笔出口订单里，谁和谁打交道</text>
+<text x="52" y="117" class="sub">500 个定制帆布袋 · 中国生产 · 贸易商安排运输至澳洲经销商仓库 · 经销商兼任进口方</text>
+<text x="52" y="153" class="meta">横向箭头表示卖方 → 买方。下方实线表示直接对接，虚线表示经由服务商对接或申报。</text>
+<rect x="52" y="178" width="372" height="105" rx="12" fill="#624c29" stroke="none"/>
+<text x="70" y="215" class="head">中国工厂</text>
+<text x="70" y="243" class="head-copy">向中国贸易商出售成品袋</text>
+<text x="70" y="267" class="head-copy">收供货款，承担用料与生产成本</text>
+<path d="M 431 231 H 451" fill="none" stroke="#516b61" stroke-width="2.4" marker-end="url(#arrow)"/>
+<path d="M 64 283 V 615" fill="none" stroke="#624c29" stroke-width="1.7"/>
+<path d="M 64 329 H 78" fill="none" stroke="#624c29" stroke-width="1.7"/>
+<rect x="78" y="302" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="91" y="334" class="name">面辅料供应商</text>
+<text x="91" y="360" class="row"><tspan class="tag" fill="#624c29">委托付费</tspan><tspan x="163">工厂下单，付材料款</tspan></text>
+<text x="91" y="383" class="row"><tspan class="tag" fill="#624c29">交付事项</tspan><tspan x="163">按规格交帆布、提手和包装</tspan></text>
+<text x="91" y="406" class="row"><tspan class="tag" fill="#624c29">出了问题</tspan><tspan x="163">缺料或来料不符，工厂跟进</tspan></text>
+<path d="M 64 472 H 78" fill="none" stroke="#624c29" stroke-width="1.7"/>
+<rect x="78" y="445" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="91" y="477" class="name">印刷或缝制外协厂</text>
+<text x="91" y="503" class="row"><tspan class="tag" fill="#624c29">委托付费</tspan><tspan x="163">工厂需要外协时委托，付加工费</tspan></text>
+<text x="91" y="526" class="row"><tspan class="tag" fill="#624c29">交付事项</tspan><tspan x="163">按图稿印刷，或按样品缝制</tspan></text>
+<text x="91" y="549" class="row"><tspan class="tag" fill="#624c29">出了问题</tspan><tspan x="163">工厂核对工序结果并安排返工</tspan></text>
+<path d="M 64 615 H 78" fill="none" stroke="#624c29" stroke-width="1.7"/>
+<rect x="78" y="588" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="91" y="620" class="name">厂内质检和仓库</text>
+<text x="91" y="646" class="row"><tspan class="tag" fill="#624c29">谁安排</tspan><tspan x="163">工厂内部安排，成本由工厂列支</tspan></text>
+<text x="91" y="669" class="row"><tspan class="tag" fill="#624c29">交付事项</tspan><tspan x="163">检查做工、清点、装箱待提</tspan></text>
+<text x="91" y="692" class="row"><tspan class="tag" fill="#624c29">出了问题</tspan><tspan x="163">少箱或标记不符，工厂先复核</tspan></text>
+<rect x="460" y="178" width="372" height="105" rx="12" fill="#235642" stroke="none"/>
+<text x="478" y="215" class="head">中国贸易商</text>
+<text x="478" y="243" class="head-copy">向工厂采购，向澳洲经销商销售</text>
+<text x="478" y="267" class="head-copy">收出口货款，付采购和交付费用</text>
+<path d="M 839 231 H 859" fill="none" stroke="#516b61" stroke-width="2.4" marker-end="url(#arrow)"/>
+<path d="M 472 283 V 1044" fill="none" stroke="#235642" stroke-width="1.7"/>
+<path d="M 472 329 H 486" fill="none" stroke="#235642" stroke-width="1.7"/>
+<rect x="486" y="302" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="499" y="334" class="name">第三方验货、检测机构</text>
+<text x="499" y="360" class="row"><tspan class="tag" fill="#235642">委托付费</tspan><tspan x="571">本例由贸易商委托并付费</tspan></text>
+<text x="499" y="383" class="row"><tspan class="tag" fill="#235642">交付事项</tspan><tspan x="571">按样品抽检，按约出检测报告</tspan></text>
+<text x="499" y="406" class="row"><tspan class="tag" fill="#235642">出了问题</tspan><tspan x="571">贸易商看报告，和工厂谈处理</tspan></text>
+<path d="M 472 472 H 486" fill="none" stroke="#235642" stroke-width="1.7"/>
+<rect x="486" y="445" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="499" y="477" class="name">货代</text>
+<text x="499" y="503" class="row"><tspan class="tag" fill="#235642">委托付费</tspan><tspan x="571">贸易商下运输委托，付到仓运费</tspan></text>
+<text x="499" y="526" class="row"><tspan class="tag" fill="#235642">交付事项</tspan><tspan x="571">订舱、提货、跟踪至买家仓库</tspan></text>
+<text x="499" y="549" class="row"><tspan class="tag" fill="#235642">出了问题</tspan><tspan x="571">甩柜或延误，贸易商找货代重排</tspan></text>
+<path d="M 494 574 V 615 H 506" fill="none" stroke="#235642" stroke-width="1.7" stroke-dasharray="4 4"/>
+<rect x="506" y="588" width="326" height="129" rx="12" fill="#e8f3ed" stroke="#d7e1da"/>
+<text x="519" y="620" class="name">承运人、仓储和派送方</text>
+<text x="519" y="646" class="row"><tspan class="tag" fill="#235642">委托付费</tspan><tspan x="591">本例由货代订服务并结算</tspan></text>
+<text x="519" y="669" class="row"><tspan class="tag" fill="#235642">交付事项</tspan><tspan x="591">卡车提货，船或飞机运输，派送</tspan></text>
+<text x="519" y="692" class="row"><tspan class="tag" fill="#235642">出了问题</tspan><tspan x="591">各方报告节点，货代协调异常</tspan></text>
+<path d="M 472 758 H 486" fill="none" stroke="#235642" stroke-width="1.7"/>
+<rect x="486" y="731" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="499" y="763" class="name">国内税务代理</text>
+<text x="499" y="789" class="row"><tspan class="tag" fill="#235642">委托付费</tspan><tspan x="571">贸易商委托并付服务费</tspan></text>
+<text x="499" y="812" class="row"><tspan class="tag" fill="#235642">交付事项</tspan><tspan x="571">核对购进与出口单据，协助申报</tspan></text>
+<text x="499" y="835" class="row"><tspan class="tag" fill="#235642">出了问题</tspan><tspan x="571">资料有差异，贸易商补证或核实</tspan></text>
+<path d="M 472 901 H 486" fill="none" stroke="#235642" stroke-width="1.7"/>
+<rect x="486" y="874" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="499" y="906" class="name">贸易商的收款银行</text>
+<text x="499" y="932" class="row"><tspan class="tag" fill="#235642">委托付费</tspan><tspan x="571">贸易商使用银行账户，按约付费</tspan></text>
+<text x="499" y="955" class="row"><tspan class="tag" fill="#235642">交付事项</tspan><tspan x="571">收买家汇款，提供入账记录</tspan></text>
+<text x="499" y="978" class="row"><tspan class="tag" fill="#235642">出了问题</tspan><tspan x="571">款未到账，贸易商请银行查汇款</tspan></text>
+<path d="M 472 1044 H 486" fill="none" stroke="#235642" stroke-width="1.7"/>
+<rect x="486" y="1017" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="499" y="1049" class="name">货运险、出口信用险机构</text>
+<text x="499" y="1075" class="row"><tspan class="tag" fill="#235642">委托付费</tspan><tspan x="571">贸易商按需分别投保并付保费</tspan></text>
+<text x="499" y="1098" class="row"><tspan class="tag" fill="#235642">交付事项</tspan><tspan x="571">按保单承保货损或买方违约风险</tspan></text>
+<text x="499" y="1121" class="row"><tspan class="tag" fill="#235642">出了问题</tspan><tspan x="571">贸易商按保单报案并提交资料</tspan></text>
+<rect x="868" y="178" width="372" height="105" rx="12" fill="#2d5375" stroke="none"/>
+<text x="886" y="215" class="head">澳洲礼品经销商</text>
+<text x="886" y="243" class="head-copy">向贸易商下单，本例兼任进口方</text>
+<text x="886" y="267" class="head-copy">付进口采购款，收当地销售款</text>
+<path d="M 1247 231 H 1267" fill="none" stroke="#516b61" stroke-width="2.4" marker-end="url(#arrow)"/>
+<path d="M 880 283 V 901" fill="none" stroke="#2d5375" stroke-width="1.7"/>
+<path d="M 880 329 H 894" fill="none" stroke="#2d5375" stroke-width="1.7"/>
+<rect x="894" y="302" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="907" y="334" class="name">澳洲持牌报关代理</text>
+<text x="907" y="360" class="row"><tspan class="tag" fill="#2d5375">委托付费</tspan><tspan x="979">经销商授权代理并付申报服务费</tspan></text>
+<text x="907" y="383" class="row"><tspan class="tag" fill="#2d5375">交付事项</tspan><tspan x="979">用发票、装箱单等资料办理申报</tspan></text>
+<text x="907" y="406" class="row"><tspan class="tag" fill="#2d5375">出了问题</tspan><tspan x="979">缺文件，代理请进口方补资料</tspan></text>
+<path d="M 902 431 V 472 H 914" fill="none" stroke="#2d5375" stroke-width="1.7" stroke-dasharray="4 4"/>
+<rect x="914" y="445" width="326" height="129" rx="12" fill="#e8f0f8" stroke="#d7e1da"/>
+<text x="927" y="477" class="name">澳洲海关等监管部门</text>
+<text x="927" y="503" class="row"><tspan class="tag" fill="#2d5375">监管关系</tspan><tspan x="999">受理进口申报，依法审核与放行</tspan></text>
+<text x="927" y="526" class="row"><tspan class="tag" fill="#2d5375">交付事项</tspan><tspan x="999">进口方按适用规则缴纳税费</tspan></text>
+<text x="927" y="549" class="row"><tspan class="tag" fill="#2d5375">出了问题</tspan><tspan x="999">被要求补充说明，由进口方响应</tspan></text>
+<path d="M 880 615 H 894" fill="none" stroke="#2d5375" stroke-width="1.7"/>
+<rect x="894" y="588" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="907" y="620" class="name">经销商的付款银行</text>
+<text x="907" y="646" class="row"><tspan class="tag" fill="#2d5375">委托付费</tspan><tspan x="979">经销商发付款指令，按约付费</tspan></text>
+<text x="907" y="669" class="row"><tspan class="tag" fill="#2d5375">交付事项</tspan><tspan x="979">将货款汇至贸易商的收款账户</tspan></text>
+<text x="907" y="692" class="row"><tspan class="tag" fill="#2d5375">出了问题</tspan><tspan x="979">汇款退回，经销商找付款银行</tspan></text>
+<path d="M 880 758 H 894" fill="none" stroke="#2d5375" stroke-width="1.7"/>
+<rect x="894" y="731" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="907" y="763" class="name">澳洲税务代理</text>
+<text x="907" y="789" class="row"><tspan class="tag" fill="#2d5375">委托付费</tspan><tspan x="979">经销商委托并付服务费</tspan></text>
+<text x="907" y="812" class="row"><tspan class="tag" fill="#2d5375">交付事项</tspan><tspan x="979">核对进口凭证，协助处理 GST</tspan></text>
+<text x="907" y="835" class="row"><tspan class="tag" fill="#2d5375">出了问题</tspan><tspan x="979">税务申报疑问由经销商确认</tspan></text>
+<path d="M 880 901 H 894" fill="none" stroke="#2d5375" stroke-width="1.7"/>
+<rect x="894" y="874" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="907" y="906" class="name">澳洲本地仓配商</text>
+<text x="907" y="932" class="row"><tspan class="tag" fill="#2d5375">委托付费</tspan><tspan x="979">经销商另委托仓储或活动配送</tspan></text>
+<text x="907" y="955" class="row"><tspan class="tag" fill="#2d5375">交付事项</tspan><tspan x="979">从经销商仓交给活动方，取签收</tspan></text>
+<text x="907" y="978" class="row"><tspan class="tag" fill="#2d5375">出了问题</tspan><tspan x="979">送达异常，经销商找本地仓配</tspan></text>
+<rect x="1276" y="178" width="372" height="105" rx="12" fill="#59466b" stroke="none"/>
+<text x="1294" y="215" class="head">澳洲终端活动方</text>
+<text x="1294" y="243" class="head-copy">向当地礼品经销商订 500 个袋</text>
+<text x="1294" y="267" class="head-copy">付成品交付价，用于活动派发</text>
+<path d="M 1288 283 V 472" fill="none" stroke="#59466b" stroke-width="1.7"/>
+<path d="M 1288 329 H 1302" fill="none" stroke="#59466b" stroke-width="1.7"/>
+<rect x="1302" y="302" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="1315" y="334" class="name">品牌、活动采购团队</text>
+<text x="1315" y="360" class="row"><tspan class="tag" fill="#59466b">谁安排</tspan><tspan x="1387">活动方内部安排采购与预算</tspan></text>
+<text x="1315" y="383" class="row"><tspan class="tag" fill="#59466b">交付事项</tspan><tspan x="1387">提供 Logo、尺寸和最迟到货日</tspan></text>
+<text x="1315" y="406" class="row"><tspan class="tag" fill="#59466b">出了问题</tspan><tspan x="1387">需求变更，活动方找经销商确认</tspan></text>
+<path d="M 1288 472 H 1302" fill="none" stroke="#59466b" stroke-width="1.7"/>
+<rect x="1302" y="445" width="346" height="129" rx="12" fill="#fff" stroke="#d7e1da"/>
+<text x="1315" y="477" class="name">现场收货和派发团队</text>
+<text x="1315" y="503" class="row"><tspan class="tag" fill="#59466b">谁安排</tspan><tspan x="1387">活动方内部安排，外包则另付费</tspan></text>
+<text x="1315" y="526" class="row"><tspan class="tag" fill="#59466b">交付事项</tspan><tspan x="1387">收货清点并按活动计划发放</tspan></text>
+<text x="1315" y="549" class="row"><tspan class="tag" fill="#59466b">出了问题</tspan><tspan x="1387">少货或印错，活动方找经销商</tspan></text>
+<rect x="78" y="759" width="346" height="183" rx="12" fill="#f7f0df" stroke="#e5d7bc"/>
+<text x="92" y="793" class="name">印歪了，工厂找谁？</text>
+<text x="92" y="824" class="note">工厂找自己委托的印刷方确认。</text>
+<text x="92" y="850" class="note">贸易商通过供货合同找工厂处理。</text>
+<text x="92" y="876" class="note">澳洲经销商通过出口订单找贸易商。</text>
+<text x="92" y="902" class="note">验货报告可以让几方对准同一批货。</text>
+<rect x="1302" y="617" width="346" height="197" rx="12" fill="#f1ebf6" stroke="#dfd4e9"/>
+<text x="1316" y="651" class="name">终端客户怎样影响上游？</text>
+<text x="1316" y="680" class="note">活动方提出不可错过的日期。</text>
+<text x="1316" y="705" class="note">经销商把日期写进给贸易商的订单。</text>
+<text x="1316" y="730" class="note">贸易商据此倒排样品、生产和运输。</text>
+<text x="1316" y="755" class="note">买家确认样品晚了，</text>
+<text x="1316" y="780" class="note">贸易商就要重新核对提货和到货日。</text>
+<rect x="52" y="1174" width="1596" height="84" rx="12" fill="#e9f0eb" stroke="#d3e0d7"/>
+<text x="70" y="1207" class="note">货款沿买卖关系结算。服务费沿各自的委托关系结算。实际操作方、委托方与最终承担费用的一方，按具体约定核对。</text>
+<text x="70" y="1237" class="meta">教学设定。验货、检测、外协、保险等视订单选用。清关委托、代垫税费与费用结算在报价或合同中单独确认。</text>
+</svg>

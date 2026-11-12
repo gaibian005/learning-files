@@ -1,0 +1,232 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1880" height="1700" viewBox="0 0 1880 1700" role="img" aria-labelledby="title desc" xml:lang="zh-CN">
+<title id="title">树莓派5跨境外贸全链路业务详图</title>
+<desc id="desc">从Raspberry Pi 5的芯片、Sony制造、DigiKey分销，到美国出货、中国进口和顺丰配送。假设中国硬件团队通过DigiKey中国人民币渠道订购10块主板，展示各环节参与方、动作、单据、利益与异常处理。该订单为教学演示，具名合作关系由公开资料支持。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#55706c"/></marker></defs>
+<style>
+text { font-family: "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+.title { font-size: 49px; font-weight: 700; fill: #173b36; }
+.sub { font-size: 21px; fill: #425f5c; }
+.small { font-size: 17px; fill: #4e6865; }
+.root { font-size: 25px; font-weight: 700; fill: #fff; }
+.group { font-size: 23px; font-weight: 700; fill: #fff; }
+.name { font-size: 22px; font-weight: 700; fill: #183c38; }
+.body { font-size: 17px; fill: #304b48; }
+.tag { font-size: 16px; font-weight: 700; }
+.footer-title { font-size: 23px; font-weight: 700; fill: #173d36; }
+.flow { font-size: 20px; fill: #254a42; }
+.link { font-size: 16px; fill: #236078; text-decoration: underline; }
+</style>
+<rect x="0" y="0" width="1880" height="1700" rx="0" fill="#f6f8f5" stroke="none"/>
+<text x="48" y="77" class="title" text-anchor="start">一块树莓派，怎样完成跨境交易</text>
+<text x="48" y="115" class="sub" text-anchor="start">Raspberry Pi 5 · 核心芯片 → 英国制造 → 美国分销仓 → 中国进口 → 企业客户签收</text>
+<text x="48" y="148" class="small" text-anchor="start">具名合作关系有公开依据；10 块主板的采购为教学演示。仅讨论 DigiKey 中国人民币自营渠道。</text>
+<rect x="552" y="174" width="776" height="58" rx="13" fill="#204b42" stroke="none"/>
+<text x="940" y="212" class="root" text-anchor="middle">先沿业务走一遍，再看各方为何参与、怎样收钱</text>
+<path d="M940 232 V249 M265 268 V249 H1615 V268 M715 249 V268 M1165 249 V268" fill="none" stroke="#9ab0a9" stroke-width="2"/>
+<rect x="48" y="268" width="434" height="52" rx="13" fill="#31556b" stroke="none"/>
+<text x="64" y="302" class="group" text-anchor="start">元器件从哪里来</text>
+<path d="M56 320 V850" fill="none" stroke="#31556b" stroke-width="2"/>
+<path d="M56 366 H68" fill="none" stroke="#31556b" stroke-width="2"/>
+<rect x="68" y="337" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="82" y="368" class="name" text-anchor="start">01 · 核心芯片</text>
+<text x="82" y="395" class="tag" text-anchor="start" fill="#31556b">Broadcom / Renesas / Infineon</text>
+<text x="82" y="423" class="tag" text-anchor="start" fill="#31556b">实际构成</text>
+<text x="162" y="423" class="body" text-anchor="start">BCM2712 主运算；DA9091 管电源。</text>
+<text x="162" y="444" class="body" text-anchor="start">CYW43455 提供 Wi-Fi / 蓝牙。</text>
+<text x="82" y="468" class="tag" text-anchor="start" fill="#31556b">为何出现</text>
+<text x="162" y="468" class="body" text-anchor="start">专业芯片能力被整合到一块主板。</text>
+<text x="162" y="489" class="body" text-anchor="start">采购通常形成芯片供货收入。</text>
+<text x="82" y="513" class="tag" text-anchor="start" fill="#31556b">下一步</text>
+<text x="162" y="513" class="body" text-anchor="start">按设计需求进入物料清单。</text>
+<text x="162" y="534" class="body" text-anchor="start">批次价格、采购发票尚未公开。</text>
+<path d="M56 608 H68" fill="none" stroke="#31556b" stroke-width="2"/>
+<rect x="68" y="579" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="82" y="610" class="name" text-anchor="start">02 · 自研芯片与晶圆制造</text>
+<text x="82" y="637" class="tag" text-anchor="start" fill="#31556b">Raspberry Pi RP1 → TSMC</text>
+<text x="82" y="665" class="tag" text-anchor="start" fill="#31556b">实际分工</text>
+<text x="162" y="665" class="body" text-anchor="start">树莓派设计 RP1；台积电制造晶圆。</text>
+<text x="162" y="686" class="body" text-anchor="start">2024 年披露通过 IMEC 对接代工。</text>
+<text x="82" y="710" class="tag" text-anchor="start" fill="#31556b">为何出现</text>
+<text x="162" y="710" class="body" text-anchor="start">芯片设计方可使用外部制造能力。</text>
+<text x="162" y="731" class="body" text-anchor="start">代工和中介环节按合同取得收入。</text>
+<text x="82" y="755" class="tag" text-anchor="start" fill="#31556b">边界</text>
+<text x="162" y="755" class="body" text-anchor="start">这是 RP1 分支，随后汇入整板生产。</text>
+<text x="162" y="776" class="body" text-anchor="start">具体封装厂和单批运单待查。</text>
+<path d="M56 850 H68" fill="none" stroke="#31556b" stroke-width="2"/>
+<rect x="68" y="821" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="82" y="852" class="name" text-anchor="start">03 · 其他物料与采购协同</text>
+<text x="82" y="879" class="tag" text-anchor="start" fill="#31556b">内存、PCB、接口件等供应方</text>
+<text x="82" y="907" class="tag" text-anchor="start" fill="#31556b">业务动作</text>
+<text x="162" y="907" class="body" text-anchor="start">按容量、板型及接口规格准备物料。</text>
+<text x="162" y="928" class="body" text-anchor="start">采购方核对报价、供货量和交期。</text>
+<text x="82" y="952" class="tag" text-anchor="start" fill="#31556b">操作记录</text>
+<text x="162" y="952" class="body" text-anchor="start">教学示例：物料清单、订单、交货计划。</text>
+<text x="162" y="973" class="body" text-anchor="start">物料交付后按合同验收和结算。</text>
+<text x="82" y="997" class="tag" text-anchor="start" fill="#31556b">经营问题</text>
+<text x="162" y="997" class="body" text-anchor="start">缺一类关键物料就可能推迟产量。</text>
+<text x="162" y="1018" class="body" text-anchor="start">具体批次的供应商名单待查。</text>
+<rect x="498" y="268" width="434" height="52" rx="13" fill="#285e4d" stroke="none"/>
+<text x="514" y="302" class="group" text-anchor="start">谁把元件做成主板</text>
+<path d="M506 320 V850" fill="none" stroke="#285e4d" stroke-width="2"/>
+<path d="M506 366 H518" fill="none" stroke="#285e4d" stroke-width="2"/>
+<rect x="518" y="337" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="532" y="368" class="name" text-anchor="start">04 · 制造报价与订单</text>
+<text x="532" y="395" class="tag" text-anchor="start" fill="#285e4d">Raspberry Pi ↔ Sony</text>
+<text x="532" y="423" class="tag" text-anchor="start" fill="#285e4d">已披露</text>
+<text x="612" y="423" class="body" text-anchor="start">设计完成后商定物料成本与装配报价。</text>
+<text x="612" y="444" class="body" text-anchor="start">委托方向制造方下达连续采购订单。</text>
+<text x="532" y="468" class="tag" text-anchor="start" fill="#285e4d">钱与利益</text>
+<text x="612" y="468" class="body" text-anchor="start">制造方收取约定的制造款。</text>
+<text x="612" y="489" class="body" text-anchor="start">本图按直接分销模式展开。</text>
+<text x="532" y="513" class="tag" text-anchor="start" fill="#285e4d">实务追问</text>
+<text x="612" y="513" class="body" text-anchor="start">哪些料由谁买？到货怎样影响排产？</text>
+<text x="612" y="534" class="body" text-anchor="start">具体付款条件与订单金额待查。</text>
+<path d="M506 608 H518" fill="none" stroke="#285e4d" stroke-width="2"/>
+<rect x="518" y="579" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="532" y="610" class="name" text-anchor="start">05 · 装配、焊接与测试</text>
+<text x="532" y="637" class="tag" text-anchor="start" fill="#285e4d">Sony UK Technology Centre</text>
+<text x="532" y="665" class="tag" text-anchor="start" fill="#285e4d">实际工作</text>
+<text x="612" y="665" class="body" text-anchor="start">在英国威尔士制造 Pi 5 主板。</text>
+<text x="612" y="686" class="body" text-anchor="start">贴装、回流焊、测试形成可销售整板。</text>
+<text x="532" y="710" class="tag" text-anchor="start" fill="#285e4d">为何出现</text>
+<text x="612" y="710" class="body" text-anchor="start">把产品设计转成稳定的批量产出。</text>
+<text x="612" y="731" class="body" text-anchor="start">品质、效率和返工影响制造成本。</text>
+<text x="532" y="755" class="tag" text-anchor="start" fill="#285e4d">交接示例</text>
+<text x="612" y="755" class="body" text-anchor="start">批次测试通过后，清点并包装。</text>
+<text x="612" y="776" class="body" text-anchor="start">异常板返工或隔离，再安排出货。</text>
+<path d="M506 850 H518" fill="none" stroke="#285e4d" stroke-width="2"/>
+<rect x="518" y="821" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="532" y="852" class="name" text-anchor="start">06 · 成品存放与批量发运</text>
+<text x="532" y="879" class="tag" text-anchor="start" fill="#285e4d">Sony / United Worldwide Logistics</text>
+<text x="532" y="907" class="tag" text-anchor="start" fill="#285e4d">已披露</text>
+<text x="612" y="907" class="body" text-anchor="start">2024 年文件列出 Sony、邻近 UWL</text>
+<text x="612" y="928" class="body" text-anchor="start">及 Suffolk 仓库等成品存放选择。</text>
+<text x="532" y="952" class="tag" text-anchor="start" fill="#285e4d">业务动作</text>
+<text x="612" y="952" class="body" text-anchor="start">按订单准备要交付的型号和数量。</text>
+<text x="612" y="973" class="body" text-anchor="start">仓储提供保管、拣配与发运服务。</text>
+<text x="532" y="997" class="tag" text-anchor="start" fill="#285e4d">经营问题</text>
+<text x="612" y="997" class="body" text-anchor="start">几处仓库是可选路径，按订单安排。</text>
+<text x="612" y="1018" class="body" text-anchor="start">本批到 DigiKey 的运单尚未取得。</text>
+<rect x="948" y="268" width="434" height="52" rx="13" fill="#654c77" stroke="none"/>
+<text x="964" y="302" class="group" text-anchor="start">中国买家怎样下单</text>
+<path d="M956 320 V850" fill="none" stroke="#654c77" stroke-width="2"/>
+<path d="M956 366 H968" fill="none" stroke="#654c77" stroke-width="2"/>
+<rect x="968" y="337" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="982" y="368" class="name" text-anchor="start">07 · 授权分销与美国备货</text>
+<text x="982" y="395" class="tag" text-anchor="start" fill="#654c77">Raspberry Pi → DigiKey</text>
+<text x="982" y="423" class="tag" text-anchor="start" fill="#654c77">已披露</text>
+<text x="1062" y="423" class="body" text-anchor="start">DigiKey 是树莓派授权分销商。</text>
+<text x="1062" y="444" class="body" text-anchor="start">官网列有 Pi 5，配送中心位于美国。</text>
+<text x="982" y="468" class="tag" text-anchor="start" fill="#654c77">为何出现</text>
+<text x="1062" y="468" class="body" text-anchor="start">分销商组织库存、售前服务与履约。</text>
+<text x="1062" y="489" class="body" text-anchor="start">商品销售收入需要覆盖购货及运营成本。</text>
+<text x="982" y="513" class="tag" text-anchor="start" fill="#654c77">操作边界</text>
+<text x="1062" y="513" class="body" text-anchor="start">采用直接分销关系解释采购。</text>
+<text x="1062" y="534" class="body" text-anchor="start">这批板子的上游发票对手尚待核实。</text>
+<path d="M956 608 H968" fill="none" stroke="#654c77" stroke-width="2"/>
+<rect x="968" y="579" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="982" y="610" class="name" text-anchor="start">08 · 选型、询价与订单</text>
+<text x="982" y="637" class="tag" text-anchor="start" fill="#654c77">中国硬件团队 → 得捷电子（上海）</text>
+<text x="982" y="665" class="tag" text-anchor="start" fill="#654c77">教学订单</text>
+<text x="1062" y="665" class="body" text-anchor="start">假设购买 10 块 Pi 5，用于研发。</text>
+<text x="1062" y="686" class="body" text-anchor="start">在人民币自营渠道核对型号与库存。</text>
+<text x="982" y="710" class="tag" text-anchor="start" fill="#654c77">业务动作</text>
+<text x="1062" y="710" class="body" text-anchor="start">确认含税价、交期、地址和开票资料。</text>
+<text x="1062" y="731" class="body" text-anchor="start">网站支持预付，获批客户可用信用结算。</text>
+<text x="982" y="755" class="tag" text-anchor="start" fill="#654c77">交接示例</text>
+<text x="1062" y="755" class="body" text-anchor="start">订单确认后，形成供货与付款安排。</text>
+<text x="1062" y="776" class="body" text-anchor="start">库存不足时需确认补货或分批发运。</text>
+<path d="M956 850 H968" fill="none" stroke="#654c77" stroke-width="2"/>
+<rect x="968" y="821" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="982" y="852" class="name" text-anchor="start">09 · 国内销售与关联进口</text>
+<text x="982" y="879" class="tag" text-anchor="start" fill="#654c77">得捷上海 ↔ DigiKey 美国母公司</text>
+<text x="982" y="907" class="tag" text-anchor="start" fill="#654c77">已披露</text>
+<text x="1062" y="907" class="body" text-anchor="start">上海公司从美国母公司进口产品，</text>
+<text x="1062" y="928" class="body" text-anchor="start">再经人民币网站销售给中国买家。</text>
+<text x="982" y="952" class="tag" text-anchor="start" fill="#654c77">钱与单据</text>
+<text x="1062" y="952" class="body" text-anchor="start">本例买家向得捷付款，取得增值税发票。</text>
+<text x="1062" y="973" class="body" text-anchor="start">母子公司另有跨境交易与结算关系。</text>
+<text x="982" y="997" class="tag" text-anchor="start" fill="#654c77">为何出现</text>
+<text x="1062" y="997" class="body" text-anchor="start">得捷承接本地销售和进口事务。</text>
+<text x="1062" y="1018" class="body" text-anchor="start">关联采购价和内部结算条件待查。</text>
+<rect x="1398" y="268" width="434" height="52" rx="13" fill="#7a592b" stroke="none"/>
+<text x="1414" y="302" class="group" text-anchor="start">货怎样跨境到客户手上</text>
+<path d="M1406 320 V850" fill="none" stroke="#7a592b" stroke-width="2"/>
+<path d="M1406 366 H1418" fill="none" stroke="#7a592b" stroke-width="2"/>
+<rect x="1418" y="337" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="1432" y="368" class="name" text-anchor="start">10 · 美国仓出库与国际运输</text>
+<text x="1432" y="395" class="tag" text-anchor="start" fill="#7a592b">DigiKey 美国仓 → 跨境承运服务</text>
+<text x="1432" y="423" class="tag" text-anchor="start" fill="#7a592b">已披露</text>
+<text x="1512" y="423" class="body" text-anchor="start">自营货物从美国明尼苏达配送中心发出。</text>
+<text x="1512" y="444" class="body" text-anchor="start">出货前按订单核实付款与交货信息。</text>
+<text x="1432" y="468" class="tag" text-anchor="start" fill="#7a592b">操作示例</text>
+<text x="1512" y="468" class="body" text-anchor="start">拣配、装箱、制作随货单据和运单。</text>
+<text x="1512" y="489" class="body" text-anchor="start">国际承运方收取约定运输服务费。</text>
+<text x="1432" y="513" class="tag" text-anchor="start" fill="#7a592b">待查</text>
+<text x="1512" y="513" class="body" text-anchor="start">具体航线、出口服务商和中转点。</text>
+<text x="1512" y="534" class="body" text-anchor="start">本例没有一张已经发生的实际运单。</text>
+<path d="M1406 608 H1418" fill="none" stroke="#7a592b" stroke-width="2"/>
+<rect x="1418" y="579" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="1432" y="610" class="name" text-anchor="start">11 · 中国进口与税费</text>
+<text x="1432" y="637" class="tag" text-anchor="start" fill="#7a592b">得捷电子（上海）→ 进口服务环节</text>
+<text x="1432" y="665" class="tag" text-anchor="start" fill="#7a592b">已披露</text>
+<text x="1512" y="665" class="body" text-anchor="start">得捷办理进口手续后交快递。</text>
+<text x="1512" y="686" class="body" text-anchor="start">DDP 即本例的完税后交货条件。</text>
+<text x="1432" y="710" class="tag" text-anchor="start" fill="#7a592b">业务关系</text>
+<text x="1512" y="710" class="body" text-anchor="start">得捷承担约定税费与海关费用。</text>
+<text x="1512" y="731" class="body" text-anchor="start">受托报关方按授权申报，收取服务费。</text>
+<text x="1432" y="755" class="tag" text-anchor="start" fill="#7a592b">经营问题</text>
+<text x="1512" y="755" class="body" text-anchor="start">具体申报代理、税号归类和税额待查。</text>
+<text x="1512" y="776" class="body" text-anchor="start">进口申报完成后，货物进入国内配送。</text>
+<path d="M1406 850 H1418" fill="none" stroke="#7a592b" stroke-width="2"/>
+<rect x="1418" y="821" width="414" height="227" rx="13" fill="#fff" stroke="#d7e2dc"/>
+<text x="1432" y="852" class="name" text-anchor="start">12 · 顺丰配送与签收验收</text>
+<text x="1432" y="879" class="tag" text-anchor="start" fill="#7a592b">得捷发货安排 → 顺丰 → 中国买家</text>
+<text x="1432" y="907" class="tag" text-anchor="start" fill="#7a592b">已披露</text>
+<text x="1512" y="907" class="body" text-anchor="start">人民币服务页写明由顺丰送货上门。</text>
+<text x="1512" y="928" class="body" text-anchor="start">买家核对数量、型号与包装并签收。</text>
+<text x="1432" y="952" class="tag" text-anchor="start" fill="#7a592b">谁解决</text>
+<text x="1512" y="952" class="body" text-anchor="start">客户发现损坏或错货，联系得捷处理。</text>
+<text x="1512" y="973" class="body" text-anchor="start">得捷再协调配送、仓库或上游。</text>
+<text x="1432" y="997" class="tag" text-anchor="start" fill="#7a592b">完成标准</text>
+<text x="1512" y="997" class="body" text-anchor="start">产品、订单、发票与验收记录能对应。</text>
+<text x="1512" y="1018" class="body" text-anchor="start">服务费与货款分别按相应约定结算。</text>
+<text x="48" y="1094" class="footer-title" text-anchor="start">把买卖、货物和付款分别追踪</text>
+<rect x="48" y="1115" width="1784" height="88" rx="13" fill="#eaf1ed" stroke="#d4e0d9"/>
+<text x="65" y="1148" class="name" text-anchor="start">买卖关系</text>
+<text x="210" y="1148" class="flow" text-anchor="start">DigiKey 美国母公司 → 得捷电子（上海）→ 中国企业客户</text>
+<text x="210" y="1178" class="body" text-anchor="start">上海公司承接进口和国内销售。英国制造端到 DigiKey 的具体进货发票，仍需逐批核实。</text>
+<rect x="48" y="1215" width="1784" height="88" rx="13" fill="#eaf1ed" stroke="#d4e0d9"/>
+<text x="65" y="1248" class="name" text-anchor="start">实际货路</text>
+<text x="210" y="1248" class="flow" text-anchor="start">美国配送中心 → 国际运输 → 中国进口口岸 → 顺丰配送 → 客户地址</text>
+<text x="210" y="1278" class="body" text-anchor="start">实际口岸与中转仓以运单为准，办公地、进口主体注册地与货物存放地分别核实。</text>
+<rect x="48" y="1315" width="1784" height="88" rx="13" fill="#eaf1ed" stroke="#d4e0d9"/>
+<text x="65" y="1348" class="name" text-anchor="start">付款关系</text>
+<text x="210" y="1348" class="flow" text-anchor="start">中国客户 → 得捷收款渠道；得捷体系 → 上游及各类服务商</text>
+<text x="210" y="1378" class="body" text-anchor="start">客户价款、母子公司结算、制造款、运费和税费各有对应凭证，发生时间也可能不同。</text>
+<rect x="48" y="1432" width="1784" height="70" rx="13" fill="#f3ebd9" stroke="#e2d5b6"/>
+<text x="65" y="1461" class="name" text-anchor="start">关键经营问题</text>
+<text x="260" y="1461" class="body" text-anchor="start">元件买多了谁承担库存？Sony 怎样按交期生产？DigiKey 为何备货？中国客户为何愿意付含税交付价？</text>
+<text x="260" y="1487" class="body" text-anchor="start">每个答案都要落回一段合同、一个交付动作，以及相应的成本、收入和资金占用。</text>
+<text x="48" y="1541" class="footer-title" text-anchor="start">可点击的原始资料</text>
+<a href="https://www.raspberrypi.com/news/introducing-raspberry-pi-5/" target="_blank">
+<text x="48" y="1573" class="link" text-anchor="start">① Pi 5 官方产品与芯片说明</text>
+</a>
+<a href="https://data.fca.org.uk/artefacts/NSM/Portal/NI-000098822/NI-000098822.pdf" target="_blank">
+<text x="644" y="1573" class="link" text-anchor="start">② 2024 招股书（制造、仓储和渠道）</text>
+</a>
+<a href="https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-how-intrusive-reflow-soldering-boosted-our-efficiency-and-cut-our-carbon-footprint/" target="_blank">
+<text x="1240" y="1573" class="link" text-anchor="start">③ Sony 生产工艺的官方说明</text>
+</a>
+<a href="https://www.digikey.com/en/news/press-releases/2020/dec/digi-key-becomes-official-raspberry-pi-authorized-distributor" target="_blank">
+<text x="48" y="1603" class="link" text-anchor="start">④ DigiKey 树莓派授权公告</text>
+</a>
+<a href="https://www.digikey.cn/zh/terms-and-conditions" target="_blank">
+<text x="644" y="1603" class="link" text-anchor="start">⑤ DigiKey 中国人民币订购条款</text>
+</a>
+<a href="https://www.digikey.cn/zh/help/features" target="_blank">
+<text x="1240" y="1603" class="link" text-anchor="start">⑥ 人民币服务、税费与顺丰配送</text>
+</a>
+<text x="48" y="1640" class="small" text-anchor="start">阅读边界：2024 年披露的制造和仓储安排按历史事实使用；各节点的操作记录是教学示例。具体批次的合同、价格与货运安排尚未取得。</text>
+<text x="48" y="1669" class="small" text-anchor="start">单笔实录仍待补充：采购订单、商业发票、跨境运单、进口申报资料与签收记录。国际段承运方和报关行尚未具名。</text>
+</svg>

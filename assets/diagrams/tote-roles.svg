@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1070" viewBox="0 0 1600 1070" role="img" aria-labelledby="title desc" xml:lang="zh-CN">
+  <title id="title">一笔帆布袋出口订单的角色思维导图</title>
+  <desc id="desc">以中国工厂向贸易商供货、贸易商出口给澳大利亚礼品经销商为例。商品买卖下方展开生产与验收、运输与通关、收款与风险、进口与销售四类角色，每个节点展示业务动作和收款方式。部分服务随委托或交易条件而定。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#345f51"/></marker>
+  </defs>
+  <style>
+    text { font-family: "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", sans-serif; }
+    .title { font-size: 49px; font-weight: 700; fill: #142b23; }
+    .subtitle { font-size: 22px; fill: #435b50; }
+    .section { font-size: 22px; font-weight: 700; fill: #233b31; }
+    .meta { font-size: 17px; fill: #52675e; }
+    .primary { font-size: 30px; font-weight: 700; fill: #18392c; }
+    .primary-copy { font-size: 19px; fill: #3e554b; }
+    .inverse { fill: #fff; }
+    .inverse-copy { fill: #e7f2eb; }
+    .arrow-label { font-size: 17px; font-weight: 700; fill: #345f51; }
+    .group { font-size: 22px; font-weight: 700; }
+    .card-title { font-size: 22px; font-weight: 700; fill: #1e332b; }
+    .card-copy { font-size: 17px; fill: #384b43; }
+    .card-fee { font-size: 17px; font-weight: 700; }
+    .foot-label { font-size: 17px; font-weight: 700; fill: #1d4838; }
+    .foot-copy { font-size: 17px; fill: #2f4940; }
+  </style>
+
+<rect x="0" y="0" width="1600" height="1070" rx="0" fill="#f6f8f4" stroke="none"/>
+<text x="64" y="78" class="title" text-anchor="start">一笔帆布袋出口订单里的角色</text>
+<text x="64" y="116" class="subtitle" text-anchor="start">中国工厂生产 500 个定制袋，由贸易商卖给澳大利亚礼品经销商</text>
+<text x="64" y="166" class="section" text-anchor="start">商品买卖关系</text>
+<text x="1536" y="166" class="meta" text-anchor="end">箭头从卖方指向买方，货款按约定反向支付</text>
+<rect x="64" y="187" width="408" height="130" rx="16" fill="#ffffff" stroke="#d4dfd7"/>
+<text x="86" y="230" class="primary" text-anchor="start">中国工厂</text>
+<text x="86" y="264" class="primary-copy" text-anchor="start">按确认样品生产、检验和装箱</text>
+<text x="86" y="290" class="primary-copy" text-anchor="start">向贸易商收取供货款</text>
+<rect x="596" y="187" width="408" height="130" rx="16" fill="#194b3b" stroke="#d4dfd7"/>
+<text x="618" y="230" class="primary inverse" text-anchor="start">中国贸易商</text>
+<text x="618" y="264" class="primary-copy inverse-copy" text-anchor="start">对接买家、采购、协调交货和收款</text>
+<text x="618" y="290" class="primary-copy inverse-copy" text-anchor="start">向买家收货款，承担采购与交付成本</text>
+<rect x="1128" y="187" width="408" height="130" rx="16" fill="#ffffff" stroke="#d4dfd7"/>
+<text x="1150" y="230" class="primary" text-anchor="start">澳大利亚礼品经销商</text>
+<text x="1150" y="264" class="primary-copy" text-anchor="start">下单并确认样品，可同时担任进口方</text>
+<text x="1150" y="290" class="primary-copy" text-anchor="start">付给贸易商货款，再向终端客户销售</text>
+<text x="534.0" y="237" class="arrow-label" text-anchor="middle">国内采购</text>
+<path d="M 480 254 H 586" stroke="#345f51" stroke-width="2.6" marker-end="url(#arrow)" fill="none"/>
+<text x="1066.0" y="237" class="arrow-label" text-anchor="middle">出口销售</text>
+<path d="M 1012 254 H 1118" stroke="#345f51" stroke-width="2.6" marker-end="url(#arrow)" fill="none"/>
+<text x="64" y="369" class="section" text-anchor="start">参与订单的其他角色</text>
+<text x="1536" y="369" class="meta" text-anchor="end">分支按工作环节展开，实际委托关系见各卡片</text>
+<path d="M 800 317 V 397 M 240.5 421 V 397 H 1359.5 V 421 M 613.5 397 V 421 M 986.5 397 V 421" fill="none" stroke="#9aafa3" stroke-width="2.25"/>
+<rect x="64" y="421" width="353" height="52" rx="12" fill="#f4ead1" stroke="none"/>
+<text x="81" y="455" class="group" text-anchor="start" fill="#674919">生产与验收</text>
+<rect x="64" y="485" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="81" y="517" class="card-title" text-anchor="start">面辅料商、外协厂</text>
+<text x="81" y="543" class="card-copy" text-anchor="start">工厂买面料、提手和包装材料</text>
+<text x="81" y="566" class="card-copy" text-anchor="start">或委托外协厂印刷、缝制</text>
+<text x="81" y="592" class="card-fee" text-anchor="start" fill="#674919">向工厂收材料款或加工费</text>
+<rect x="64" y="624" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="81" y="656" class="card-title" text-anchor="start">第三方验货机构</text>
+<text x="81" y="682" class="card-copy" text-anchor="start">贸易商或买家委托抽检成品</text>
+<text x="81" y="705" class="card-copy" text-anchor="start">比对样品，检查数量、做工和包装</text>
+<text x="81" y="731" class="card-fee" text-anchor="start" fill="#674919">收验货费，报告供委托方决定放行</text>
+<rect x="64" y="763" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="81" y="795" class="card-title" text-anchor="start">检测实验室</text>
+<text x="81" y="821" class="card-copy" text-anchor="start">按约定测面料成分或色牢度等</text>
+<text x="81" y="844" class="card-copy" text-anchor="start">出具测试报告，供委托方判断</text>
+<text x="81" y="870" class="card-fee" text-anchor="start" fill="#674919">收检测费，按产品和要求选用</text>
+<rect x="437" y="421" width="353" height="52" rx="12" fill="#deeee5" stroke="none"/>
+<text x="454" y="455" class="group" text-anchor="start" fill="#21563f">运输与通关</text>
+<rect x="437" y="485" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="454" y="517" class="card-title" text-anchor="start">货运代理</text>
+<text x="454" y="543" class="card-copy" text-anchor="start">贸易商或买家委托安排运输</text>
+<text x="454" y="566" class="card-copy" text-anchor="start">订舱、跟踪并协调提货和派送</text>
+<text x="454" y="592" class="card-fee" text-anchor="start" fill="#21563f">收运费或代理服务费</text>
+<rect x="437" y="624" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="454" y="656" class="card-title" text-anchor="start">承运人、仓储与配送商</text>
+<text x="454" y="682" class="card-copy" text-anchor="start">卡车、船公司或航空公司运货</text>
+<text x="454" y="705" class="card-copy" text-anchor="start">仓库集货装卸，当地车队派送</text>
+<text x="454" y="731" class="card-fee" text-anchor="start" fill="#21563f">向签约方收运费、仓储费等</text>
+<rect x="437" y="763" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="454" y="795" class="card-title" text-anchor="start">报关代理、海关</text>
+<text x="454" y="821" class="card-copy" text-anchor="start">受委托的报关代理办理申报</text>
+<text x="454" y="844" class="card-copy" text-anchor="start">海关审核并决定放行</text>
+<text x="454" y="870" class="card-fee" text-anchor="start" fill="#21563f">代理收服务费，适用税费缴给政府</text>
+<rect x="810" y="421" width="353" height="52" rx="12" fill="#e4edf7" stroke="none"/>
+<text x="827" y="455" class="group" text-anchor="start" fill="#274a73">收款与风险</text>
+<rect x="810" y="485" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="827" y="517" class="card-title" text-anchor="start">银行、支付服务商</text>
+<text x="827" y="543" class="card-copy" text-anchor="start">办理跨境汇款、入账或兑换</text>
+<text x="827" y="566" class="card-copy" text-anchor="start">银行也可按约提供信用证或融资</text>
+<text x="827" y="592" class="card-fee" text-anchor="start" fill="#274a73">收手续费、汇兑价差或融资利息</text>
+<rect x="810" y="624" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="827" y="656" class="card-title" text-anchor="start">货运保险人</text>
+<text x="827" y="682" class="card-copy" text-anchor="start">由约定方投保，按保单保障货物</text>
+<text x="827" y="705" class="card-copy" text-anchor="start">货损或灭失在承保范围内可理赔</text>
+<text x="827" y="731" class="card-fee" text-anchor="start" fill="#274a73">收保费，承担约定的运输风险</text>
+<rect x="810" y="763" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="827" y="795" class="card-title" text-anchor="start">出口信用保险人</text>
+<text x="827" y="821" class="card-copy" text-anchor="start">可为出口商承保买家违约等风险</text>
+<text x="827" y="844" class="card-copy" text-anchor="start">是否赔付及赔多少按保单判断</text>
+<text x="827" y="870" class="card-fee" text-anchor="start" fill="#274a73">收保费，承担约定的回款风险</text>
+<rect x="1183" y="421" width="353" height="52" rx="12" fill="#eee7f5" stroke="none"/>
+<text x="1200" y="455" class="group" text-anchor="start" fill="#59436e">进口、税务与终端</text>
+<rect x="1183" y="485" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="1200" y="517" class="card-title" text-anchor="start">澳大利亚进口方</text>
+<text x="1200" y="543" class="card-copy" text-anchor="start">提供进口资料，安排申报和清关</text>
+<text x="1200" y="566" class="card-copy" text-anchor="start">按适用规则处理进口税费</text>
+<text x="1200" y="592" class="card-fee" text-anchor="start" fill="#59436e">可由礼品经销商兼任</text>
+<rect x="1183" y="624" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="1200" y="656" class="card-title" text-anchor="start">中国、澳大利亚税代</text>
+<text x="1200" y="682" class="card-copy" text-anchor="start">中国侧核对出口退税条件和单据</text>
+<text x="1200" y="705" class="card-copy" text-anchor="start">澳洲侧可协助进口方处理 GST</text>
+<text x="1200" y="731" class="card-fee" text-anchor="start" fill="#59436e">分别向各自委托的企业收服务费</text>
+<rect x="1183" y="763" width="353" height="126" rx="12" fill="#ffffff" stroke="#dbe3dd"/>
+<text x="1200" y="795" class="card-title" text-anchor="start">当地终端客户</text>
+<text x="1200" y="821" class="card-copy" text-anchor="start">如活动公司，提出 Logo 和到货日</text>
+<text x="1200" y="844" class="card-copy" text-anchor="start">向礼品经销商采购并确认交付</text>
+<text x="1200" y="870" class="card-fee" text-anchor="start" fill="#59436e">付成品价，用于活动或派发</text>
+<rect x="64" y="913" width="1472" height="105" rx="13" fill="#eaf2ea" stroke="#d4dfd5"/>
+<text x="83" y="945" class="foot-label" text-anchor="start">货款与服务费</text>
+<text x="231" y="945" class="foot-copy" text-anchor="start">澳洲经销商付货款给贸易商，贸易商付供货款给工厂。各服务的委托方按约定支付相应费用。</text>
+<text x="83" y="983" class="foot-label" text-anchor="start">角色可以重叠</text>
+<text x="231" y="983" class="foot-copy" text-anchor="start">买家可兼任进口方。工厂可自行质检。第三方验货、保险、贸易融资等按订单需要安排。</text>
+<text x="64" y="1049" class="meta" text-anchor="start">教学案例。实际服务范围、费用和风险承担以交易约定及适用规则为准。</text>
+</svg>

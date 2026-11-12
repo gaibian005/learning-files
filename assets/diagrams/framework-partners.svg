@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1350" viewBox="0 0 1700 1350" role="img" aria-labelledby="title" xml:lang="zh-CN">
+<title id="title">03  创业团队与合作方，具体怎样分工</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#69838a"/></marker></defs>
+<style>
+text { font-family: "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+.title { font-size: 43px; font-weight: 700; fill: #243b44; }
+.sub { font-size: 20px; fill: #47606a; }
+.head { font-size: 23px; font-weight: 700; fill: #29444b; }
+.body { font-size: 18px; fill: #324e55; }
+.small { font-size: 16px; fill: #52676e; }
+.label { font-size: 17px; font-weight: 700; fill: #315d60; }
+.white { fill: #fff; }
+.number { font-size: 29px; font-weight: 700; }
+.link { font-size: 16px; fill: #276481; text-decoration: underline; }
+</style>
+<rect x="0" y="0" width="1700" height="1350" rx="0" fill="#f6f8f6" stroke="none"/>
+<text x="52" y="75" class="title" text-anchor="start">03  创业团队与合作方，具体怎样分工</text>
+<text x="52" y="116" class="sub" text-anchor="start">客户把销售问题交给品牌；品牌协调生产与履约。各公司的收入对应各自提供的商品或服务。</text>
+<rect x="52" y="172" width="450" height="160" rx="12" fill="#eef0f7" stroke="#cfddda"/>
+<text x="70" y="210" class="head" text-anchor="start">加拿大客户</text>
+<text x="70" y="246" class="body" text-anchor="start">向 Framework 下订单、付货款。</text>
+<text x="70" y="274" class="body" text-anchor="start">获得整机、选定配件和售后服务。</text>
+<text x="70" y="302" class="body" text-anchor="start">遇到少件或故障，先向品牌反馈。</text>
+<rect x="625" y="172" width="450" height="160" rx="12" fill="#e1efea" stroke="#cfddda"/>
+<text x="643" y="210" class="head" text-anchor="start">Framework 核心团队</text>
+<text x="643" y="246" class="body" text-anchor="start">承担产品定义、研发与经营决策。</text>
+<text x="643" y="274" class="body" text-anchor="start">协调制造、仓配、发运和客户沟通。</text>
+<text x="643" y="302" class="body" text-anchor="start">收销售款，并承担产品经营成本。</text>
+<rect x="1198" y="172" width="450" height="160" rx="12" fill="#f4edde" stroke="#cfddda"/>
+<text x="1216" y="210" class="head" text-anchor="start">投资人</text>
+<text x="1216" y="246" class="body" text-anchor="start">例如 2024 年融资中的 Spark Capital。</text>
+<text x="1216" y="274" class="body" text-anchor="start">投入股权资金，取得相应权益。</text>
+<text x="1216" y="302" class="body" text-anchor="start">公司使用资金支持产品与经营扩张。</text>
+<path d="M502 252 H617" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="558" y="235" class="small" text-anchor="middle">订单 / 付款</text>
+<path d="M1198 252 H1082" fill="none" stroke="#69838a" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="1140" y="235" class="small" text-anchor="middle">股权资金</text>
+<path d="M850 332 V387 M277 424 V387 H1423 V424 M850 387 V424" fill="none" stroke="#69838a" stroke-width="2.2"/>
+<text x="850" y="369" class="label" text-anchor="middle">已公开的合作关系</text>
+<rect x="52" y="424" width="450" height="60" rx="12" fill="#315c6c" stroke="none"/>
+<text x="69" y="463" class="head white" text-anchor="start">Compal（仁宝）</text>
+<rect x="52" y="496" width="450" height="257" rx="12" fill="#fff" stroke="#d3dfdd"/>
+<text x="69" y="530" class="label" text-anchor="start">直接对接</text>
+<text x="156" y="530" class="small" text-anchor="start">品牌的工程、供应链及质量人员。</text>
+<text x="69" y="574" class="label" text-anchor="start">交付什么</text>
+<text x="156" y="574" class="small" text-anchor="start">按设计和配置制造、测试、包装产品。</text>
+<text x="69" y="618" class="label" text-anchor="start">交换什么</text>
+<text x="156" y="618" class="small" text-anchor="start">设计与生产要求、排期及异常反馈。</text>
+<text x="69" y="662" class="label" text-anchor="start">怎样获益</text>
+<text x="156" y="662" class="small" text-anchor="start">制造业务取得报酬，实际报价待查。</text>
+<text x="69" y="706" class="label" text-anchor="start">问题示例</text>
+<text x="156" y="706" class="small" text-anchor="start">质量不过关，由双方确认返工与时间。</text>
+<rect x="625" y="424" width="450" height="60" rx="12" fill="#386a54" stroke="none"/>
+<text x="642" y="463" class="head white" text-anchor="start">Dimerco（中菲行）</text>
+<rect x="625" y="496" width="450" height="257" rx="12" fill="#fff" stroke="#d3dfdd"/>
+<text x="642" y="530" class="label" text-anchor="start">直接对接</text>
+<text x="729" y="530" class="small" text-anchor="start">品牌物流、订单和客户服务团队。</text>
+<text x="642" y="574" class="label" text-anchor="start">交付什么</text>
+<text x="729" y="574" class="small" text-anchor="start">库存保管、按订单拣配、包装和发运。</text>
+<text x="642" y="618" class="label" text-anchor="start">交换什么</text>
+<text x="729" y="618" class="small" text-anchor="start">配置明细、入出库及序列号记录。</text>
+<text x="642" y="662" class="label" text-anchor="start">怎样获益</text>
+<text x="729" y="662" class="small" text-anchor="start">仓储与履约服务收入，费率待查。</text>
+<text x="642" y="706" class="label" text-anchor="start">问题示例</text>
+<text x="729" y="706" class="small" text-anchor="start">漏发配件，用扫描记录定位和补救。</text>
+<rect x="1198" y="424" width="450" height="60" rx="12" fill="#755c37" stroke="none"/>
+<text x="1215" y="463" class="head white" text-anchor="start">FedEx</text>
+<rect x="1198" y="496" width="450" height="257" rx="12" fill="#fff" stroke="#d3dfdd"/>
+<text x="1215" y="530" class="label" text-anchor="start">对接工作</text>
+<text x="1302" y="530" class="small" text-anchor="start">按发运安排接货，串联国际与末端运输。</text>
+<text x="1215" y="574" class="label" text-anchor="start">交付什么</text>
+<text x="1302" y="574" class="small" text-anchor="start">约定范围内运输、清关与送达服务。</text>
+<text x="1215" y="618" class="label" text-anchor="start">交换什么</text>
+<text x="1302" y="618" class="small" text-anchor="start">包裹、随货资料、跟踪和签收信息。</text>
+<text x="1215" y="662" class="label" text-anchor="start">怎样获益</text>
+<text x="1302" y="662" class="small" text-anchor="start">运输服务收入，具体签约及结算链待查。</text>
+<text x="1215" y="706" class="label" text-anchor="start">问题示例</text>
+<text x="1302" y="706" class="small" text-anchor="start">运输异常时向品牌或仓配反馈节点。</text>
+<rect x="52" y="780" width="1596" height="65" rx="12" fill="#e6efee" stroke="#ccdedd"/>
+<text x="72" y="820" class="head" text-anchor="start">实物流转</text>
+<text x="235" y="820" class="body" text-anchor="start">Compal 产线 → Dimerco 仓配 → 跨境运输及目的地配送 → 加拿大买家</text>
+<text x="52" y="891" class="head" text-anchor="start">如果你在这家创业公司里，每天可能在做什么</text>
+<rect x="52" y="912" width="375" height="130" rx="12" fill="#fff" stroke="#d3dfdd"/>
+<text x="68" y="947" class="head" text-anchor="start">产品与工程</text>
+<text x="68" y="981" class="body" text-anchor="start">确定模块与升级兼容要求，</text>
+<text x="68" y="1009" class="body" text-anchor="start">验证样机并处理技术问题。</text>
+<rect x="459" y="912" width="375" height="130" rx="12" fill="#fff" stroke="#d3dfdd"/>
+<text x="475" y="947" class="head" text-anchor="start">供应链与质量</text>
+<text x="475" y="981" class="body" text-anchor="start">跟进缺料、排产和不良品，</text>
+<text x="475" y="1009" class="body" text-anchor="start">确认哪些配置能够按期交付。</text>
+<rect x="866" y="912" width="375" height="130" rx="12" fill="#fff" stroke="#d3dfdd"/>
+<text x="882" y="947" class="head" text-anchor="start">订单与物流</text>
+<text x="882" y="981" class="body" text-anchor="start">把配置变成可拣货的订单，</text>
+<text x="882" y="1009" class="body" text-anchor="start">检查出运、清关和到货状态。</text>
+<rect x="1273" y="912" width="375" height="130" rx="12" fill="#fff" stroke="#d3dfdd"/>
+<text x="1289" y="947" class="head" text-anchor="start">财务与客户服务</text>
+<text x="1289" y="981" class="body" text-anchor="start">核对收款、退款和供应商账单，</text>
+<text x="1289" y="1009" class="body" text-anchor="start">追踪问题订单的处理成本。</text>
+<rect x="52" y="1064" width="1596" height="115" rx="12" fill="#f5eddd" stroke="#e1d3b5"/>
+<text x="70" y="1097" class="head" text-anchor="start">客户说盒子里少了一个接口模块</text>
+<text x="70" y="1130" class="body" text-anchor="start">品牌客服核对订单 → 仓库查看打包扫描记录 → 判断漏拣、错配或运输损坏 → 品牌确认补发与客户说明。</text>
+<text x="70" y="1159" class="small" text-anchor="start">先由谁处理、最后由谁承担补发费用，要结合事实及合同核对。这一情境为教学分析。</text>
+<a href="https://frame.work/blog/manufacturing-starts-on-the-new-framework-laptop-in-taiwan" target="_blank">
+<text x="52" y="1220" class="link" text-anchor="start">Compal 官方合作说明</text>
+</a>
+<a href="https://lp.dimerco.com/hubfs/Case%20Studies/Framework%20Case%20Study.pdf" target="_blank">
+<text x="460" y="1220" class="link" text-anchor="start">Dimerco 案例</text>
+</a>
+<a href="https://frame.work/blog/now-in-stock-and-how-a-framework-laptop-gets-from-the-factory-to-you/" target="_blank">
+<text x="866" y="1220" class="link" text-anchor="start">历史运输安排</text>
+</a>
+<a href="https://frame.work/blog/frameworks-series-a-1-and-community-participation" target="_blank">
+<text x="1273" y="1220" class="link" text-anchor="start">历史融资公告</text>
+</a>
+<text x="52" y="1263" class="small" text-anchor="start">未具名的具体芯片供应商、银行、支付服务商和报关代理，需结合型号、市场和订单继续核对。</text>
+<text x="52" y="1294" class="small" text-anchor="start">内部岗位动作及异常处理是基于公开分工的教学推演，合作方费率和责任条款尚未取得。</text>
+</svg>

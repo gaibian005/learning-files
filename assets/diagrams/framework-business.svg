@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1270" viewBox="0 0 1700 1270" role="img" aria-labelledby="title desc" xml:lang="zh-CN">
+<title id="title">Framework创业公司跨境业务地图</title>
+<desc id="desc">围绕可维修、可升级的笔记本，解释Framework的客户需求、预订、产品和供应链管理、Compal制造、Dimerco仓配、FedEx跨境配送、销售收入与融资。</desc>
+<style>
+text { font-family: "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+.title { font-size: 48px; font-weight: 700; fill: #202e38; }
+.sub { font-size: 20px; fill: #4d5b64; }
+.root { font-size: 24px; font-weight: 700; fill: #fff; }
+.group { font-size: 22px; font-weight: 700; fill: #fff; }
+.name { font-size: 23px; font-weight: 700; fill: #273943; }
+.tag { font-size: 16px; font-weight: 700; }
+.copy { font-size: 16px; fill: #334751; }
+.note { font-size: 16px; fill: #51636c; }
+.band { font-size: 21px; font-weight: 700; fill: #344b53; }
+.link { font-size: 15px; fill: #28627e; text-decoration: underline; }
+</style>
+<rect x="0" y="0" width="1700" height="1270" rx="0" fill="#f6f7f5" stroke="none"/>
+<text x="52" y="76" class="title" text-anchor="start">Framework：一家创业公司的生意如何运转</text>
+<text x="52" y="116" class="sub" text-anchor="start">科技硬件 × 官网直营 × 跨境交付 · 以 Framework Laptop 13 业务为入口</text>
+<rect x="514" y="150" width="672" height="58" rx="12" fill="#354757" stroke="none"/>
+<text x="850" y="187" class="root" text-anchor="middle">围绕可维修、可升级的电脑组织产品与交付</text>
+<path d="M850 208 V232 M239.5 257 V232 H1460.5 V257 M646.5 232 V257 M1053.5 232 V257" fill="none" stroke="#a2b3ba" stroke-width="2"/>
+<rect x="52" y="257" width="375" height="51" rx="12" fill="#4f577c" stroke="none"/>
+<text x="68" y="291" class="group" text-anchor="start">客户为什么掏钱</text>
+<path d="M60 308 V578" fill="none" stroke="#4f577c" stroke-width="2"/>
+<path d="M60 354 H72" fill="none" stroke="#4f577c" stroke-width="2"/>
+<rect x="72" y="324" width="355" height="237" rx="12" fill="#fff" stroke="#d6e0e1"/>
+<text x="85" y="357" class="name" text-anchor="start">客户要解决的问题</text>
+<text x="85" y="383" class="tag" text-anchor="start" fill="#4f577c">可维修、可升级、可自行配置</text>
+<text x="85" y="412" class="tag" text-anchor="start" fill="#4f577c">购买理由</text>
+<text x="152" y="412" class="copy" text-anchor="start">客户希望更换坏件或升级主板后，</text>
+<text x="152" y="433" class="copy" text-anchor="start">继续使用现有电脑的其他部件。</text>
+<text x="85" y="460" class="tag" text-anchor="start" fill="#4f577c">可见产品</text>
+<text x="152" y="460" class="copy" text-anchor="start">整机、DIY 版本、升级件和配件。</text>
+<text x="152" y="481" class="copy" text-anchor="start">公司公开拆装指南与硬件资料。</text>
+<text x="85" y="508" class="tag" text-anchor="start" fill="#4f577c">公司要做</text>
+<text x="152" y="508" class="copy" text-anchor="start">让客户相信升级方案能长期兑现，</text>
+<text x="152" y="529" class="copy" text-anchor="start">并让产品性能和价格有竞争力。</text>
+<path d="M60 608 H72" fill="none" stroke="#4f577c" stroke-width="2"/>
+<rect x="72" y="578" width="355" height="237" rx="12" fill="#fff" stroke="#d6e0e1"/>
+<text x="85" y="611" class="name" text-anchor="start">官网下单或预订</text>
+<text x="85" y="637" class="tag" text-anchor="start" fill="#4f577c">买家 ↔ Framework</text>
+<text x="85" y="666" class="tag" text-anchor="start" fill="#4f577c">订单动作</text>
+<text x="152" y="666" class="copy" text-anchor="start">客户选择配置、收货国家与配件，</text>
+<text x="152" y="687" class="copy" text-anchor="start">公司确认订单与预计发货安排。</text>
+<text x="85" y="714" class="tag" text-anchor="start" fill="#4f577c">预订收款</text>
+<text x="152" y="714" class="copy" text-anchor="start">按适用条款先收预订款，</text>
+<text x="152" y="735" class="copy" text-anchor="start">产品准备出货时再收剩余金额。</text>
+<text x="85" y="762" class="tag" text-anchor="start" fill="#4f577c">经营含义</text>
+<text x="152" y="762" class="copy" text-anchor="start">公司能观察预订需求和配置分布。</text>
+<text x="152" y="783" class="copy" text-anchor="start">取消订单和生产延迟仍需管理。</text>
+<rect x="459" y="257" width="375" height="51" rx="12" fill="#2d5d69" stroke="none"/>
+<text x="475" y="291" class="group" text-anchor="start">公司怎样组织生产</text>
+<path d="M467 308 V578" fill="none" stroke="#2d5d69" stroke-width="2"/>
+<path d="M467 354 H479" fill="none" stroke="#2d5d69" stroke-width="2"/>
+<rect x="479" y="324" width="355" height="237" rx="12" fill="#fff" stroke="#d6e0e1"/>
+<text x="492" y="357" class="name" text-anchor="start">Framework 核心团队</text>
+<text x="492" y="383" class="tag" text-anchor="start" fill="#2d5d69">品牌、产品设计与经营协调</text>
+<text x="492" y="412" class="tag" text-anchor="start" fill="#2d5d69">自己承担</text>
+<text x="559" y="412" class="copy" text-anchor="start">产品定义、研发、选型与上市规划，</text>
+<text x="559" y="433" class="copy" text-anchor="start">把客户承诺转成可交付的配置。</text>
+<text x="492" y="460" class="tag" text-anchor="start" fill="#2d5d69">外部协作</text>
+<text x="559" y="460" class="copy" text-anchor="start">对接芯片、模块和制造伙伴，</text>
+<text x="559" y="481" class="copy" text-anchor="start">协调生产数量、交期与问题处理。</text>
+<text x="492" y="508" class="tag" text-anchor="start" fill="#2d5d69">实际决策</text>
+<text x="559" y="508" class="copy" text-anchor="start">哪些配置先做、要备多少零件、</text>
+<text x="559" y="529" class="copy" text-anchor="start">缺件后如何调整批次并告知客户。</text>
+<path d="M467 608 H479" fill="none" stroke="#2d5d69" stroke-width="2"/>
+<rect x="479" y="578" width="355" height="237" rx="12" fill="#fff" stroke="#d6e0e1"/>
+<text x="492" y="611" class="name" text-anchor="start">Compal（仁宝）</text>
+<text x="492" y="637" class="tag" text-anchor="start" fill="#2d5d69">公开确认的制造伙伴</text>
+<text x="492" y="666" class="tag" text-anchor="start" fill="#2d5d69">交付工作</text>
+<text x="559" y="666" class="copy" text-anchor="start">官方记录了桃园产线的装配、</text>
+<text x="559" y="687" class="copy" text-anchor="start">测试、包装及量产验证工作。</text>
+<text x="492" y="714" class="tag" text-anchor="start" fill="#2d5d69">业务关系</text>
+<text x="559" y="714" class="copy" text-anchor="start">Framework 与制造伙伴协调交付，</text>
+<text x="559" y="735" class="copy" text-anchor="start">制造方按商业约定取得报酬。</text>
+<text x="492" y="762" class="tag" text-anchor="start" fill="#2d5d69">为何参与</text>
+<text x="559" y="762" class="copy" text-anchor="start">创业团队使用成熟制造能力，</text>
+<text x="559" y="783" class="copy" text-anchor="start">同时承担产品与供应链管理。</text>
+<rect x="866" y="257" width="375" height="51" rx="12" fill="#37654f" stroke="none"/>
+<text x="882" y="291" class="group" text-anchor="start">怎样跨境送到买家</text>
+<path d="M874 308 V578" fill="none" stroke="#37654f" stroke-width="2"/>
+<path d="M874 354 H886" fill="none" stroke="#37654f" stroke-width="2"/>
+<rect x="886" y="324" width="355" height="237" rx="12" fill="#fff" stroke="#d6e0e1"/>
+<text x="899" y="357" class="name" text-anchor="start">Dimerco（中菲行）</text>
+<text x="899" y="383" class="tag" text-anchor="start" fill="#37654f">第三方仓储与订单履约伙伴</text>
+<text x="899" y="412" class="tag" text-anchor="start" fill="#37654f">交付工作</text>
+<text x="966" y="412" class="copy" text-anchor="start">收货入库、拣配客户所选模块，</text>
+<text x="966" y="433" class="copy" text-anchor="start">扫描出入库并追踪序列号。</text>
+<text x="899" y="460" class="tag" text-anchor="start" fill="#37654f">业务关系</text>
+<text x="966" y="460" class="copy" text-anchor="start">Framework 委托仓配服务，</text>
+<text x="966" y="481" class="copy" text-anchor="start">双方按约定结算服务费用。</text>
+<text x="899" y="508" class="tag" text-anchor="start" fill="#37654f">为何参与</text>
+<text x="966" y="508" class="copy" text-anchor="start">靠近产线与机场，随订单量调节</text>
+<text x="966" y="529" class="copy" text-anchor="start">仓库空间、人手和出货能力。</text>
+<path d="M874 608 H886" fill="none" stroke="#37654f" stroke-width="2"/>
+<rect x="886" y="578" width="355" height="237" rx="12" fill="#fff" stroke="#d6e0e1"/>
+<text x="899" y="611" class="name" text-anchor="start">FedEx 跨境配送</text>
+<text x="899" y="637" class="tag" text-anchor="start" fill="#37654f">历史官方披露的国际集运方案</text>
+<text x="899" y="666" class="tag" text-anchor="start" fill="#37654f">交付工作</text>
+<text x="966" y="666" class="copy" text-anchor="start">同一目的地区的客户包裹集中运输，</text>
+<text x="966" y="687" class="copy" text-anchor="start">入境清关后再分拆到单个地址。</text>
+<text x="899" y="714" class="tag" text-anchor="start" fill="#37654f">业务关系</text>
+<text x="966" y="714" class="copy" text-anchor="start">参与运输履约并收取服务收入。</text>
+<text x="966" y="735" class="copy" text-anchor="start">买家的销售订单仍由品牌承接。</text>
+<text x="899" y="762" class="tag" text-anchor="start" fill="#37654f">为何参与</text>
+<text x="966" y="762" class="copy" text-anchor="start">把国际段和末端配送连接起来。</text>
+<text x="966" y="783" class="copy" text-anchor="start">具体订单的路线、费用须再核对。</text>
+<rect x="1273" y="257" width="375" height="51" rx="12" fill="#835c35" stroke="none"/>
+<text x="1289" y="291" class="group" text-anchor="start">这门生意怎么算账</text>
+<path d="M1281 308 V578" fill="none" stroke="#835c35" stroke-width="2"/>
+<path d="M1281 354 H1293" fill="none" stroke="#835c35" stroke-width="2"/>
+<rect x="1293" y="324" width="355" height="237" rx="12" fill="#fff" stroke="#d6e0e1"/>
+<text x="1306" y="357" class="name" text-anchor="start">整机、升级件和配件销售</text>
+<text x="1306" y="383" class="tag" text-anchor="start" fill="#835c35">收入明确，实际毛利率待查</text>
+<text x="1306" y="412" class="tag" text-anchor="start" fill="#835c35">收入来自</text>
+<text x="1373" y="412" class="copy" text-anchor="start">客户购买电脑，以及之后购买</text>
+<text x="1373" y="433" class="copy" text-anchor="start">主板、维修件或扩展配件。</text>
+<text x="1306" y="460" class="tag" text-anchor="start" fill="#835c35">主要支出</text>
+<text x="1373" y="460" class="copy" text-anchor="start">物料与制造、仓配与跨境运输，</text>
+<text x="1373" y="481" class="copy" text-anchor="start">支付费用、售后，以及研发和运营。</text>
+<text x="1306" y="508" class="tag" text-anchor="start" fill="#835c35">分析重点</text>
+<text x="1373" y="508" class="copy" text-anchor="start">每单扣除可归属成本后剩多少，</text>
+<text x="1373" y="529" class="copy" text-anchor="start">再看能否覆盖持续研发与团队费用。</text>
+<path d="M1281 608 H1293" fill="none" stroke="#835c35" stroke-width="2"/>
+<rect x="1293" y="578" width="355" height="237" rx="12" fill="#fff" stroke="#d6e0e1"/>
+<text x="1306" y="611" class="name" text-anchor="start">融资与经营现金</text>
+<text x="1306" y="637" class="tag" text-anchor="start" fill="#835c35">历史融资披露 + 订单收款</text>
+<text x="1306" y="666" class="tag" text-anchor="start" fill="#835c35">2024 融资</text>
+<text x="1373" y="666" class="copy" text-anchor="start">公布新增融资 1,800 万美元，</text>
+<text x="1373" y="687" class="copy" text-anchor="start">其中 A-1 轮为 1,700 万美元。</text>
+<text x="1306" y="714" class="tag" text-anchor="start" fill="#835c35">资金作用</text>
+<text x="1373" y="714" class="copy" text-anchor="start">公司称用于支持既有用户、扩大</text>
+<text x="1373" y="735" class="copy" text-anchor="start">现有产品覆盖和拓展产品类别。</text>
+<text x="1306" y="762" class="tag" text-anchor="start" fill="#835c35">经营含义</text>
+<text x="1373" y="762" class="copy" text-anchor="start">预订收款、客户尾款和投资款，</text>
+<text x="1373" y="783" class="copy" text-anchor="start">到账时点及承担的义务各不相同。</text>
+<text x="52" y="859" class="band" text-anchor="start">跟着一笔跨境订单读</text>
+<rect x="52" y="877" width="1596" height="116" rx="12" fill="#e7eff0" stroke="#d2dee1"/>
+<text x="70" y="910" class="copy" text-anchor="start">客户预订并选择配置 → 公司协调供应与生产 → Compal 交整机 → Dimerco 按订单拣配 → 跨境运输 → 客户签收</text>
+<text x="70" y="941" class="copy" text-anchor="start">客户付款进入品牌的销售交易。制造、仓配、运输各自有服务与结算关系，单笔签约主体及付款条款以实际订单核对。</text>
+<text x="70" y="971" class="copy" text-anchor="start">加拿大订单示例可使用其现行销售条款学习 DDP：品牌通过指定承运商安排清关和相关费用，客户按要求提供资料。</text>
+<rect x="52" y="1011" width="1596" height="65" rx="12" fill="#f1ebdf" stroke="#e0d6c3"/>
+<text x="70" y="1040" class="band" text-anchor="start">接下来要追的经营问题</text>
+<text x="335" y="1040" class="copy" text-anchor="start">一个预订批次缺了主板，公司如何改交期？客户取消后，已采购的零件和已发生的费用由谁承担？</text>
+<text x="335" y="1064" class="note" text-anchor="start">这是可用公开业务关系继续拆解的情境题，具体损益需要订单和成本数据。</text>
+<a href="https://frame.work/about" target="_blank">
+<text x="52" y="1114" class="link" text-anchor="start">公司起步与产品主张</text>
+</a>
+<a href="https://frame.work/blog/manufacturing-starts-on-the-new-framework-laptop-in-taiwan" target="_blank">
+<text x="592" y="1114" class="link" text-anchor="start">Compal 生产与量产验证</text>
+</a>
+<a href="https://lp.dimerco.com/hubfs/Case%20Studies/Framework%20Case%20Study.pdf" target="_blank">
+<text x="1132" y="1114" class="link" text-anchor="start">Dimerco 仓配案例</text>
+</a>
+<a href="https://frame.work/blog/now-in-stock-and-how-a-framework-laptop-gets-from-the-factory-to-you/" target="_blank">
+<text x="52" y="1143" class="link" text-anchor="start">官方跨境运输说明（2022）</text>
+</a>
+<a href="https://frame.work/terms-of-sale" target="_blank">
+<text x="592" y="1143" class="link" text-anchor="start">预订、收款与交货条款（2026）</text>
+</a>
+<a href="https://frame.work/blog/frameworks-series-a-1-and-community-participation" target="_blank">
+<text x="1132" y="1143" class="link" text-anchor="start">2024 年融资公告</text>
+</a>
+<text x="52" y="1185" class="note" text-anchor="start">证据边界：图据不同年份的公开产品、合作及条款资料整理，展示已披露的业务机制；一笔客户订单的生产和运输为教学串联。</text>
+<text x="52" y="1213" class="note" text-anchor="start">合作方报价、具体供应商账期、获客成本和公司净利润尚未取得。2022 年的跨境集运做法按历史案例使用。</text>
+<text x="52" y="1241" class="note" text-anchor="start">企业阶段：官方称 2020 年开始创业，2021 年首次交付 Laptop 13；后续已扩展为多条产品线。</text>
+</svg>
